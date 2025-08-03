@@ -1,0 +1,3332 @@
+[
+  {
+    "codigo": 380,
+    "nombre": "ABANCAY",
+    "direccion": "AV. ABANCAY 728",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.052955,
+    "lng": -77.029646
+  },
+  {
+    "codigo": 413,
+    "nombre": "AGUAYTIA 2",
+    "direccion": "AV. SIMÓN BOLIVAR MZ C, LT 5, CENTRO POBLADO VILLA AGUAYTIA, CDRA 2",
+    "distrito": "PADRE ABAD",
+    "provincia": "PADRE ABAD",
+    "departamento": "UCAYALI",
+    "lat": -9.036944,
+    "lng": -75.506975
+  },
+  {
+    "codigo": 325,
+    "nombre": "ANCÓN",
+    "direccion": "AAHH LAS ESTERAS II, MZ E, LT 5, ZONA 4 (PRIMER PISO)",
+    "distrito": "ANCÓN",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.776366,
+    "lng": -77.166248
+  },
+  {
+    "codigo": 13,
+    "nombre": "ANDAHUAYLAS",
+    "direccion": "AV. ANDAHUAYLAS 309",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.047375,
+    "lng": -77.023769
+  },
+  {
+    "codigo": 11,
+    "nombre": "ANGAMOS",
+    "direccion": "AV. ANGAMOS ESTE 726",
+    "distrito": "SURQUILLO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.113167,
+    "lng": -77.02397
+  },
+  {
+    "codigo": 315,
+    "nombre": "ANGAMOS 2",
+    "direccion": "AV. ANGAMOS ESTE 270 - 270A (PRIMER PISO)",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.113786,
+    "lng": -77.028021
+  },
+  {
+    "codigo": 436,
+    "nombre": "ANGAMOS 3",
+    "direccion": "AV. ANGAMOS ESTE 698",
+    "distrito": "SURQUILLO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.113596,
+    "lng": -77.024471
+  },
+  {
+    "codigo": 49,
+    "nombre": "ARENALES",
+    "direccion": "AV. ARENALES 1976",
+    "distrito": "LINCE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.084475,
+    "lng": -77.035731
+  },
+  {
+    "codigo": 228,
+    "nombre": "AREQUIPA 01",
+    "direccion": "CALLE GENERAL MORAN 107",
+    "distrito": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "departamento": "AREQUIPA",
+    "lat": -16.399726,
+    "lng": -71.535824
+  },
+  {
+    "codigo": 323,
+    "nombre": "AREQUIPA 02",
+    "direccion": "CALLE MERCADERES 332, TIENDA 34 (PRIMER PISO)",
+    "distrito": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "departamento": "AREQUIPA",
+    "lat": -16.399561,
+    "lng": -71.533332
+  },
+  {
+    "codigo": 335,
+    "nombre": "AREQUIPA 04",
+    "direccion": "AV. TRINIDAD MORAN, URB. LEÓN XIII, MZ. K, LOTE 4 (PRIMER PISO)",
+    "distrito": "CAYMA",
+    "provincia": "AREQUIPA",
+    "departamento": "AREQUIPA",
+    "lat": -16.391062,
+    "lng": -71.54806
+  },
+  {
+    "codigo": 336,
+    "nombre": "AREQUIPA 05",
+    "direccion": "CALLE SANTO DOMINGO 121 (1ER Y 2DO PISO)",
+    "distrito": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "departamento": "AREQUIPA",
+    "lat": -16.400076,
+    "lng": -71.534973
+  },
+  {
+    "codigo": 341,
+    "nombre": "AREQUIPA 06",
+    "direccion": "AV. AREQUIPA 720, MZ 22, LT 12, ALTO SELVA ALEGRE ZONA A",
+    "distrito": "ALTO SELVA ALEGRE",
+    "provincia": "AREQUIPA",
+    "departamento": "AREQUIPA",
+    "lat": -16.385579,
+    "lng": -71.521219
+  },
+  {
+    "codigo": 350,
+    "nombre": "AREQUIPA 07",
+    "direccion": "AV. ESTADOS UNIDOS 200, 200A, 200B, URB. CIUDAD SATÉLITE, ZONA DOLORES, MZ. O, LOTE 15",
+    "distrito": "JOSÉ LUIS BUSTAMANTE Y RIVERO",
+    "provincia": "AREQUIPA",
+    "departamento": "AREQUIPA",
+    "lat": -16.430271,
+    "lng": -71.529798
+  },
+  {
+    "codigo": 467,
+    "nombre": "AREQUIPA 08 EFE",
+    "direccion": "AV. MARISCAL CASTILLA 626 - 626A",
+    "distrito": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "departamento": "AREQUIPA",
+    "lat": -16.403107,
+    "lng": -71.516618
+  },
+  {
+    "codigo": 486,
+    "nombre": "AREQUIPA 09 INKAMAY",
+    "direccion": "AV. INDEPENDENCIA 133, URB. VICTORIA",
+    "distrito": "AREQUIPA",
+    "provincia": "AREQUIPA",
+    "departamento": "AREQUIPA",
+    "lat": -16.400502,
+    "lng": -71.522724
+  },
+  {
+    "codigo": 10,
+    "nombre": "AUXILIADORA 1",
+    "direccion": "AV. MIGUEL IGLESIAS 979",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.160002,
+    "lng": -76.959029
+  },
+  {
+    "codigo": 143,
+    "nombre": "AUXILIADORA 2",
+    "direccion": "AV. MIGUEL IGLESIAS 941A",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.160553,
+    "lng": -76.959232
+  },
+  {
+    "codigo": 248,
+    "nombre": "AUXILIADORA 4",
+    "direccion": "AV. MIGUEL IGLESIAS 997B - 999 Y AV. LOS HÉROES 1198A - 1198 (PRIMER PISO)",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.159716,
+    "lng": -76.958888
+  },
+  {
+    "codigo": 141,
+    "nombre": "AV. PERU 1 SMP",
+    "direccion": "AV. PERÚ 4289 Y QUILCA 503 - 505",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.030153,
+    "lng": -77.094375
+  },
+  {
+    "codigo": 270,
+    "nombre": "AV. PERU 2 SMP",
+    "direccion": "AV. PERÚ 1824 (PRIMER PISO)",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.031911,
+    "lng": -77.065274
+  },
+  {
+    "codigo": 14,
+    "nombre": "AVIACION 1",
+    "direccion": "AV. AVIACIÓN 2744, URB. SAN BORJA SUR",
+    "distrito": "SAN BORJA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.095354,
+    "lng": -77.002756
+  },
+  {
+    "codigo": 130,
+    "nombre": "AVIACION 2",
+    "direccion": "AV. AVIACIÓN 2990",
+    "distrito": "SAN BORJA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.099445,
+    "lng": -77.002124
+  },
+  {
+    "codigo": 283,
+    "nombre": "AVIACION 3",
+    "direccion": "AV. AVIACIÓN 4525 (PRIMER PISO)",
+    "distrito": "SURQUILLO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.119567,
+    "lng": -76.998037
+  },
+  {
+    "codigo": 377,
+    "nombre": "AVIACION 4",
+    "direccion": "AV. AVIACIÓN 2348, MZ A LT 10, URB. PRIMAVERA BELLA DE LIMA",
+    "distrito": "SAN BORJA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.086149,
+    "lng": -77.004108
+  },
+  {
+    "codigo": 511,
+    "nombre": "AVIACION 5",
+    "direccion": "AV. AVIACIÓN 2958",
+    "distrito": "SAN BORJA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.098961,
+    "lng": -77.002247
+  },
+  {
+    "codigo": 351,
+    "nombre": "BAGUA GRANDE",
+    "direccion": "AV. CHACHAPOYAS 2174, MZ V7, LT 4, SECTOR VISALOT",
+    "distrito": "BAGUA GRANDE",
+    "provincia": "UTCUBAMBA",
+    "departamento": "AMAZONAS",
+    "lat": -5.756069,
+    "lng": -78.442136
+  },
+  {
+    "codigo": 21,
+    "nombre": "BALTA",
+    "direccion": "AV. JOSÉ BALTA 1795",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.762994,
+    "lng": -79.837654
+  },
+  {
+    "codigo": 117,
+    "nombre": "BANDA SHILCAYO",
+    "direccion": "JR. PAJATEN 312,  MZ A, LT 15, AAHH. EL PROGRESO",
+    "distrito": "LA BANDA DE SHILCAYO",
+    "provincia": "SAN MARTÍN",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.493777,
+    "lng": -76.348855
+  },
+  {
+    "codigo": 275,
+    "nombre": "BARRANCA",
+    "direccion": "JR. JOSE GALVEZ 414 - 416 (PRIMER PISO)",
+    "distrito": "BARRANCA",
+    "provincia": "BARRANCA",
+    "departamento": "LIMA",
+    "lat": -10.753395,
+    "lng": -77.75928
+  },
+  {
+    "codigo": 381,
+    "nombre": "BARRANCA 2",
+    "direccion": "JR. PROGRESO 171",
+    "distrito": "BARRANCA",
+    "provincia": "BARRANCA",
+    "departamento": "LIMA",
+    "lat": -10.750239,
+    "lng": -77.762889
+  },
+  {
+    "codigo": 284,
+    "nombre": "BARRANCO 2",
+    "direccion": "AV. GRAU 200 (PRIMER PISO)",
+    "distrito": "BARRANCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.150402,
+    "lng": -77.020413
+  },
+  {
+    "codigo": 405,
+    "nombre": "BARRANCO 3",
+    "direccion": "AV. ALMIRANTE MIGUEL GRAU 598, CRUCE CON CALLE IGNACIO MERINO 102",
+    "distrito": "BARRANCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.14589,
+    "lng": -77.021659
+  },
+  {
+    "codigo": 191,
+    "nombre": "BENAVIDES",
+    "direccion": "AV. ALFREDO BENAVIDES 3602, CRUCE CON CALLE CARLOS TENAUD S/N, URBANIZACIÓN LOS ROSALES",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.128861,
+    "lng": -76.997977
+  },
+  {
+    "codigo": 259,
+    "nombre": "BENAVIDES 2",
+    "direccion": "AV. ALFREDO BENAVIDES 2260 (PRIMER PISO)",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.127867,
+    "lng": -77.009161
+  },
+  {
+    "codigo": 165,
+    "nombre": "BRASIL 2",
+    "direccion": "AV. BRASIL 2680 - 2680 A",
+    "distrito": "PUEBLO LIBRE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.084057,
+    "lng": -77.061438
+  },
+  {
+    "codigo": 8,
+    "nombre": "BRENDA",
+    "direccion": "AV. REVOLUCIÓN 1703",
+    "distrito": "VILLA EL SALVADOR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.208478,
+    "lng": -76.939572
+  },
+  {
+    "codigo": 375,
+    "nombre": "BREÑA 2",
+    "direccion": "AV. JUAN PABLO FERNANDINI 833",
+    "distrito": "BREÑA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.066801,
+    "lng": -77.048596
+  },
+  {
+    "codigo": 382,
+    "nombre": "BREÑA 3",
+    "direccion": "JR. RESTAURACION 205-205A",
+    "distrito": "BREÑA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.065405,
+    "lng": -77.047748
+  },
+  {
+    "codigo": 493,
+    "nombre": "BREÑA 5",
+    "direccion": "AV. VENEZUELA 812",
+    "distrito": "BREÑA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.054728,
+    "lng": -77.045319
+  },
+  {
+    "codigo": 308,
+    "nombre": "CAJAMARCA",
+    "direccion": "AV. DE LOS HEROES 528, BARRIO SAN SEBASTIAN (PRIMER PISO)",
+    "distrito": "CAJAMARCA",
+    "provincia": "CAJAMARCA",
+    "departamento": "CAJAMARCA",
+    "lat": -7.163629,
+    "lng": -78.511113
+  },
+  {
+    "codigo": 462,
+    "nombre": "CAJAMARCA 4",
+    "direccion": "JR. AMAZONAS 548, MZ 6, BARRIO LA MERCED, CDRA 5",
+    "distrito": "CAJAMARCA",
+    "provincia": "CAJAMARCA",
+    "departamento": "CAJAMARCA",
+    "lat": -7.155508,
+    "lng": -78.517561
+  },
+  {
+    "codigo": 71,
+    "nombre": "CALLAO 1",
+    "direccion": "AV. SAENZ PEÑA 702",
+    "distrito": "CALLAO",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -12.060413,
+    "lng": -77.13833
+  },
+  {
+    "codigo": 146,
+    "nombre": "CALLAO 2",
+    "direccion": "AV. SAENZ PEÑA 440 - 442",
+    "distrito": "CALLAO",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -12.061023,
+    "lng": -77.142144
+  },
+  {
+    "codigo": 203,
+    "nombre": "CALLAO 3",
+    "direccion": "AV. MARCO POLO 104-112",
+    "distrito": "CALLAO",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -12.061148,
+    "lng": -77.143184
+  },
+  {
+    "codigo": 498,
+    "nombre": "CALLAO 5",
+    "direccion": "AV. SAENZ PEÑA 630, B-5, TIENDA B-5, URB. LA CHALACA",
+    "distrito": "CALLAO",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -12.060591,
+    "lng": -77.139244
+  },
+  {
+    "codigo": 44,
+    "nombre": "CAMANA (S)",
+    "direccion": "JR. CAMANÁ 700",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.049299,
+    "lng": -77.035271
+  },
+  {
+    "codigo": 353,
+    "nombre": "CAMANÁ 2",
+    "direccion": "JR. CAMANÁ 748",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.049678,
+    "lng": -77.035543
+  },
+  {
+    "codigo": 140,
+    "nombre": "CANGALLO",
+    "direccion": "JR. PROLONGACION CANGALLO 139",
+    "distrito": "LA VICTORIA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.059443,
+    "lng": -77.021531
+  },
+  {
+    "codigo": 408,
+    "nombre": "CANTA CALLAO SMP",
+    "direccion": "ASOC. LAS BEGONIAS DE SANTA ROSA MZ A, LT 01",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.997317,
+    "lng": -77.112151
+  },
+  {
+    "codigo": 500,
+    "nombre": "CAÑETE 2 CURACAO",
+    "direccion": "AV. MARISCAL BENAVIDES 423",
+    "distrito": "SAN VICENTE",
+    "provincia": "CAÑETE",
+    "departamento": "LIMA",
+    "lat": -13.075607,
+    "lng": -76.380619
+  },
+  {
+    "codigo": 487,
+    "nombre": "CAÑETE INKAMAY",
+    "direccion": "AV. MARISCAL BENAVIDES 1515",
+    "distrito": "SAN VICENTE",
+    "provincia": "CAÑETE",
+    "departamento": "LIMA",
+    "lat": -13.073047,
+    "lng": -76.368335
+  },
+  {
+    "codigo": 173,
+    "nombre": "CARABAYLLO (S)",
+    "direccion": "AV. SAN MARTIN CDRA 2 S/N, URB. SANTA ISABEL",
+    "distrito": "CARABAYLLO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.901178,
+    "lng": -77.034374
+  },
+  {
+    "codigo": 285,
+    "nombre": "CARABAYLLO 2",
+    "direccion": "AV. TÚPAC AMARU 2935, TIENDA 02, P.J. EL PROGRESO (PRIMER PISO)",
+    "distrito": "CARABAYLLO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.878194,
+    "lng": -77.01848
+  },
+  {
+    "codigo": 316,
+    "nombre": "CARABAYLLO 3",
+    "direccion": "JR. MADRE SELVA 680, URB. SANTA ISABEL (PRIMER PISO)",
+    "distrito": "CARABAYLLO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.898658,
+    "lng": -77.038142
+  },
+  {
+    "codigo": 439,
+    "nombre": "CARMEN DE LA LEGUA-REYNOSO",
+    "direccion": "AV. PRIMERO DE MAYO 793-799, CRUCE CON JR. JOSE GALVEZ 290",
+    "distrito": "CARMEN DE LA LEGUA-REYNOSO",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -12.039612,
+    "lng": -77.091113
+  },
+  {
+    "codigo": 383,
+    "nombre": "CASA GRANDE",
+    "direccion": "AV. TREN 101, URB. LIMA, MZ B, LT 1 Y 2",
+    "distrito": "CASA GRANDE",
+    "provincia": "ASCOPE",
+    "departamento": "LA LIBERTAD",
+    "lat": -7.743411,
+    "lng": -79.188826
+  },
+  {
+    "codigo": 153,
+    "nombre": "CAYETANO HEREDIA 1 SMP",
+    "direccion": "AV. HONORIO DELGADO 249 - 251, LT 13 SECTOR 2",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.021981,
+    "lng": -77.054284
+  },
+  {
+    "codigo": 286,
+    "nombre": "CAYETANO HEREDIA 2 SMP",
+    "direccion": "AV. HONORIO DELGADO 319 - 319A, CDRA 3, URB. INGENIERIA, IV ETAPA, SECTOR 43",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.023004,
+    "lng": -77.055032
+  },
+  {
+    "codigo": 490,
+    "nombre": "CHACHAPOYAS",
+    "direccion": "JR. GRAU 621, MZ 21, LT 17",
+    "distrito": "CHACHAPOYAS",
+    "provincia": "CHACHAPOYAS",
+    "departamento": "AMAZONAS",
+    "lat": -6.230125,
+    "lng": -77.871838
+  },
+  {
+    "codigo": 254,
+    "nombre": "CHANCAY",
+    "direccion": "CALLE LOPEZ DE ZUÑIGA 237 (PRIMER PISO)",
+    "distrito": "CHANCAY",
+    "provincia": "HUARAL",
+    "departamento": "LIMA",
+    "lat": -11.563776,
+    "lng": -77.269924
+  },
+  {
+    "codigo": 255,
+    "nombre": "CHANCAY 2",
+    "direccion": "BOULEVARD LÓPEZ DE ZUÑIGA 307 (PRIMER PISO)",
+    "distrito": "CHANCAY",
+    "provincia": "HUARAL",
+    "departamento": "LIMA",
+    "lat": -11.564577,
+    "lng": -77.269549
+  },
+  {
+    "codigo": 326,
+    "nombre": "CHEPEN",
+    "direccion": "CALLE SAN PEDRO 185",
+    "distrito": "CHEPEN",
+    "provincia": "CHEPEN",
+    "departamento": "LA LIBERTAD",
+    "lat": -7.227815,
+    "lng": -79.429009
+  },
+  {
+    "codigo": 87,
+    "nombre": "CHICLAYO 03",
+    "direccion": "MZ. J LOTE 2 PASAJE 4 NOVIEMBRE",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.763026,
+    "lng": -79.864245
+  },
+  {
+    "codigo": 138,
+    "nombre": "CHICLAYO 04",
+    "direccion": "AV. LUIS GONZALES 654A",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.772236,
+    "lng": -79.842286
+  },
+  {
+    "codigo": 167,
+    "nombre": "CHICLAYO 05",
+    "direccion": "AV. PEDRO RUIZ 790",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.767945,
+    "lng": -79.840548
+  },
+  {
+    "codigo": 193,
+    "nombre": "CHICLAYO 06",
+    "direccion": "AV. LUIS GONZALES 640",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.772561,
+    "lng": -79.842335
+  },
+  {
+    "codigo": 219,
+    "nombre": "CHICLAYO 07",
+    "direccion": "AV. ELIAS AGUIRRE 250-2",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.771511,
+    "lng": -79.842871
+  },
+  {
+    "codigo": 220,
+    "nombre": "CHICLAYO 08",
+    "direccion": "AV. LUIS GONZALES 691, EDIFICIO PIEDRA LORA",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.771635,
+    "lng": -79.842343
+  },
+  {
+    "codigo": 415,
+    "nombre": "CHICLAYO 10",
+    "direccion": "AV. SÁENZ PEÑA 1120",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.769313,
+    "lng": -79.835871
+  },
+  {
+    "codigo": 430,
+    "nombre": "CHICLAYO 11",
+    "direccion": "AV. SÁENZ PEÑA 199",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.77613,
+    "lng": -79.835741
+  },
+  {
+    "codigo": 440,
+    "nombre": "CHICLAYO 12 INKAMAY",
+    "direccion": "CALLE PIURA 198, URB. PATAZCA",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.769464,
+    "lng": -79.853149
+  },
+  {
+    "codigo": 476,
+    "nombre": "CHICLAYO 13 INKAMAY",
+    "direccion": "AV. FRANCISCO CUNEO 949 - URB. PATAZCA",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.769275,
+    "lng": -79.853301
+  },
+  {
+    "codigo": 494,
+    "nombre": "CHICLAYO 14",
+    "direccion": "AV. LOS INCAS 1200, CRUCE CON AV. GRAN CHIMÚ",
+    "distrito": "LA VICTORIA",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.801417,
+    "lng": -79.83934
+  },
+  {
+    "codigo": 331,
+    "nombre": "CHILCA",
+    "direccion": "AV. MARIANO IGNACIO PRADO MZ. 79, LOTE 15, ZONA 1",
+    "distrito": "CHILCA",
+    "provincia": "CAÑETE",
+    "departamento": "LIMA",
+    "lat": -12.515837,
+    "lng": -76.736061
+  },
+  {
+    "codigo": 287,
+    "nombre": "CHIMBOTE",
+    "direccion": "AV. JOSÉ BALTA 1109, MZ. H LT. 02 PJ. EL PROGRESO (PRIMER PISO)",
+    "distrito": "CHIMBOTE",
+    "provincia": "DEL SANTA",
+    "departamento": "ÁNCASH",
+    "lat": -9.068262,
+    "lng": -78.584342
+  },
+  {
+    "codigo": 427,
+    "nombre": "CHINCHA 2",
+    "direccion": "AV. MARISCAL BENAVIDES 199 Y CALLAO 201",
+    "distrito": "CHINCHA ALTA",
+    "provincia": "CHINCHA",
+    "departamento": "ICA",
+    "lat": -13.417731,
+    "lng": -76.134236
+  },
+  {
+    "codigo": 501,
+    "nombre": "CHINCHA 3 EFE",
+    "direccion": "AV. MARISCAL BENAVIDES 265",
+    "distrito": "CHINCHA ALTA",
+    "provincia": "CHINCHA",
+    "departamento": "ICA",
+    "lat": -13.417579,
+    "lng": -76.135008
+  },
+  {
+    "codigo": 337,
+    "nombre": "CHOCOPE",
+    "direccion": "MZ. B, LOTE 15, URB. EL FERROCARRIL",
+    "distrito": "CHOCOPE",
+    "provincia": "ASCOPE",
+    "departamento": "LA LIBERTAD",
+    "lat": -7.793323,
+    "lng": -79.222649
+  },
+  {
+    "codigo": 110,
+    "nombre": "CHORRILLOS 02",
+    "direccion": "AV. ALAMEDA SUR MZ H-3 LOTE 17, URB. LOS CEDROS DE VILLA",
+    "distrito": "CHORRILLOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.198929,
+    "lng": -77.01236
+  },
+  {
+    "codigo": 123,
+    "nombre": "CHORRILLOS 03",
+    "direccion": "AV. SANTA ANITA 490, CRUCE CON AV. ALAMEDA LOS PINOS MZ. C-01, LT 01, INT 6,7,8, URB. VILLA MARINA",
+    "distrito": "CHORRILLOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.189243,
+    "lng": -77.01423
+  },
+  {
+    "codigo": 208,
+    "nombre": "CHORRILLOS 04",
+    "direccion": "AV. PROLONGACIÓN PASEO DE LA REPÚBLICA 792 - 798",
+    "distrito": "CHORRILLOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.173497,
+    "lng": -77.015214
+  },
+  {
+    "codigo": 261,
+    "nombre": "CHORRILLOS 05",
+    "direccion": "AV. DEFENSORES DEL MORRO 593, URB. CHORRILLOS (PRIMER PISO)",
+    "distrito": "CHORRILLOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.169463,
+    "lng": -77.023605
+  },
+  {
+    "codigo": 393,
+    "nombre": "CHORRILLOS 06",
+    "direccion": "AV. ALAMEDA LOS CEDROS 299, TIENDA 02, URB. LOS CEDROS DE VILLA, MZ. N-06, LOTE 02",
+    "distrito": "CHORRILLOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.204087,
+    "lng": -77.013701
+  },
+  {
+    "codigo": 406,
+    "nombre": "CHOSICA",
+    "direccion": "AV. 28 DE JULIO 139 - CERCADO CHOSICA",
+    "distrito": "LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.935191,
+    "lng": -76.693457
+  },
+  {
+    "codigo": 168,
+    "nombre": "CLINICA GONZALES",
+    "direccion": "AV. IGNACIO MERINO 1884",
+    "distrito": "LINCE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.08294,
+    "lng": -77.032815
+  },
+  {
+    "codigo": 185,
+    "nombre": "COLLIQUE",
+    "direccion": "AV. TÚPAC AMARU 7993 CON CALLE LOS GERANIOS 105, URB. SAN JUAN BAUTISTA",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.913464,
+    "lng": -77.039827
+  },
+  {
+    "codigo": 428,
+    "nombre": "COLLIQUE 2",
+    "direccion": "AV. TUPAC AMARU 7761 Y JR. SAN JUAN BAUTISTA 100, MZ E, LT 5, URB POPULAR SAN JUAN BAUTISTA, I ETAPA, ZONA 9",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.916082,
+    "lng": -77.041178
+  },
+  {
+    "codigo": 39,
+    "nombre": "COLMENA",
+    "direccion": "AV. NICOLÁS DE PIÉROLA 798",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.050786,
+    "lng": -77.036176
+  },
+  {
+    "codigo": 128,
+    "nombre": "COMANDANTE ESPINAR",
+    "direccion": "AV. COMANDANTE ESPINAR 136",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.11861,
+    "lng": -77.036771
+  },
+  {
+    "codigo": 495,
+    "nombre": "COMANDANTE ESPINAR 2",
+    "direccion": "AV. COMANDANTE ESPINAR 847",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.11116,
+    "lng": -77.037079
+  },
+  {
+    "codigo": 29,
+    "nombre": "COMAS 01 (S)",
+    "direccion": "AV. TUPAC AMARU KM. 7.5 (REF. CALLE LA MERCED Y LAS NAZARENAS)",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.971674,
+    "lng": -77.057297
+  },
+  {
+    "codigo": 129,
+    "nombre": "COMAS 04",
+    "direccion": "AV. TUPAC AMARU 1125, URB. HUAQUILLAY",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.955112,
+    "lng": -77.052469
+  },
+  {
+    "codigo": 132,
+    "nombre": "COMAS 05",
+    "direccion": "AV. VICTOR A. BELAUNDE OESTE 400 - 402, CRUCE CON JR. LEON PINELO CDRA 3, URB. HUAQUILLAY (PRIMER PISO)",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.938072,
+    "lng": -77.052582
+  },
+  {
+    "codigo": 256,
+    "nombre": "COMAS 06",
+    "direccion": "AV. GUILLERMO DE LA FUENTE 499 - 499A (PRIMER PISO)",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.943643,
+    "lng": -77.058348
+  },
+  {
+    "codigo": 311,
+    "nombre": "COMAS 08",
+    "direccion": "AV. UNIVERSITARIA NORTE 10598, CRUCE C/ AV. SAN FELIPE S/N, URB. SAN FELIPE, 2DA ETAPA, SECTOR 8 (PRIMER PISO)",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.901218,
+    "lng": -77.039707
+  },
+  {
+    "codigo": 343,
+    "nombre": "COMAS 09",
+    "direccion": "AV. MICAELA BASTIDAS 107-111, MZ A, LT 14, URB. SAN AGUSTIN, ZONA 10",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.933586,
+    "lng": -77.047192
+  },
+  {
+    "codigo": 461,
+    "nombre": "COMAS 10 INKAMAY",
+    "direccion": "AV. TUPAC AMARU MZ. U, LT. 8, URB. CARABAYLLO, ZONAL 01, SEGM 1",
+    "distrito": "COMAS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.972464,
+    "lng": -77.057775
+  },
+  {
+    "codigo": 47,
+    "nombre": "CT 1",
+    "direccion": "AV. RAMÓN VARGAS MACHUCA 422",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.165389,
+    "lng": -76.972725
+  },
+  {
+    "codigo": 156,
+    "nombre": "CT 2",
+    "direccion": "AV. SAN JUAN 602 B-ZONA E",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.165028,
+    "lng": -76.972585
+  },
+  {
+    "codigo": 108,
+    "nombre": "CT 3",
+    "direccion": "JR. JESÚS MORALES 484",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.166507,
+    "lng": -76.974428
+  },
+  {
+    "codigo": 223,
+    "nombre": "CUSCO 1 WANCHAQ",
+    "direccion": "AV. GARCILASO 200",
+    "distrito": "WANCHAQ",
+    "provincia": "CUSCO",
+    "departamento": "CUSCO",
+    "lat": -13.522444,
+    "lng": -71.973013
+  },
+  {
+    "codigo": 318,
+    "nombre": "CUSCO 4 LA CULTURA",
+    "direccion": "MZ N LT 13, URB. COOP. DE VIV. MAGISTERIAL (PRIMER PISO)",
+    "distrito": "CUSCO",
+    "provincia": "CUSCO",
+    "departamento": "CUSCO",
+    "lat": -13.52637,
+    "lng": -71.948914
+  },
+  {
+    "codigo": 420,
+    "nombre": "CUSCO 5",
+    "direccion": "CALLE CCASCAPARO 320 - 324",
+    "distrito": "CUSCO",
+    "provincia": "CUSCO",
+    "departamento": "CUSCO",
+    "lat": -13.521724,
+    "lng": -71.982586
+  },
+  {
+    "codigo": 477,
+    "nombre": "CUSCO 6 CURACAO",
+    "direccion": "JR. SAN ANDRÉS 294",
+    "distrito": "CUSCO",
+    "provincia": "CUSCO",
+    "departamento": "CUSCO",
+    "lat": -13.519922,
+    "lng": -71.9784
+  },
+  {
+    "codigo": 496,
+    "nombre": "CUSCO 7 INKAMAY",
+    "direccion": "AV. GARCILASO 220",
+    "distrito": "WANCHAQ",
+    "provincia": "CUSCO",
+    "departamento": "CUSCO",
+    "lat": -13.5225,
+    "lng": -71.972294
+  },
+  {
+    "codigo": 251,
+    "nombre": "EL AGUSTINO 3",
+    "direccion": "AV. CÉSAR VALLEJO 1445-1447 (PRIMER PISO)",
+    "distrito": "EL AGUSTINO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.039714,
+    "lng": -76.993035
+  },
+  {
+    "codigo": 262,
+    "nombre": "EL AGUSTINO 4",
+    "direccion": "AV. ANDRÉS PONCE PALACIOS S/N, CRUCE CON AV. JOSÉ CARLOS MARIATEGUI S/N, MZ. H LT. 07, P.J. VICENTELO BAJO (PRIMER PISO)",
+    "distrito": "EL AGUSTINO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.028998,
+    "lng": -76.999635
+  },
+  {
+    "codigo": 394,
+    "nombre": "EL AGUSTINO 5",
+    "direccion": "AV. JOSE DE LA RIVA AGÜERO 1284, MZ A LT 1, PJ. PRO VIVIENDA EL AGUSTINO, ZONA SEXTA",
+    "distrito": "EL AGUSTINO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.049546,
+    "lng": -77.001442
+  },
+  {
+    "codigo": 134,
+    "nombre": "EL CHACARERO",
+    "direccion": "AV. PROLONGACIÓN UNIÓN 2142, URB. EL SOL DEL CHACARERO",
+    "distrito": "TRUJILLO",
+    "provincia": "TRUJILLO",
+    "departamento": "LA LIBERTAD",
+    "lat": -8.091235,
+    "lng": -79.00711
+  },
+  {
+    "codigo": 233,
+    "nombre": "ELIO",
+    "direccion": "AV. REYNALDO SAAVEDRA PINÓN 2599, ESQUINA AV. ROBERTO THORNDIKE 1401, URB. ELIO - PRIMER PISO",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.054761,
+    "lng": -77.069118
+  },
+  {
+    "codigo": 4,
+    "nombre": "FAMILIA",
+    "direccion": "AV. JOSÉ CARLOS MARIÁTEGUI 944",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.153888,
+    "lng": -76.952084
+  },
+  {
+    "codigo": 166,
+    "nombre": "FAMILIA 2",
+    "direccion": "AV. JOSÉ CARLOS MARIÁTEGUI 880 - 878 URB. SAN GABRIEL",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.1543,
+    "lng": -76.952411
+  },
+  {
+    "codigo": 319,
+    "nombre": "FAMILIA 4",
+    "direccion": "AV. JOSÉ CARLOS MARIÁTEGUI 822  - 828 (PRIMER PISO)",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.154439,
+    "lng": -76.952519
+  },
+  {
+    "codigo": 312,
+    "nombre": "FAUCETT",
+    "direccion": "AV. ELMER FAUCETT 485 - TIENDA 103,104 (PRIMER PISO)",
+    "distrito": "SAN MIGUEL",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.064666,
+    "lng": -77.097462
+  },
+  {
+    "codigo": 416,
+    "nombre": "FAUCETT 2",
+    "direccion": "AV. ELMER FAUCETT 535-537, URB. RESIDENCIAL CALLAO",
+    "distrito": "SAN MIGUEL",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.064043,
+    "lng": -77.097492
+  },
+  {
+    "codigo": 242,
+    "nombre": "GAMARRA",
+    "direccion": "AV. AVIACIÓN 950, INT. LBb03 (GALERÍA GAMARRA MODA PLAZA, PRIMER PISO)",
+    "distrito": "LA VICTORIA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.070828,
+    "lng": -77.012939
+  },
+  {
+    "codigo": 177,
+    "nombre": "GARCILASO",
+    "direccion": "AV. GARCILASO DE LA VEGA 1297 - 1299",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.055771,
+    "lng": -77.038076
+  },
+  {
+    "codigo": 180,
+    "nombre": "GUARDIA CIVIL",
+    "direccion": "JR. GUARDIA CIVIL NORTE 401 CON JR. VISTA ALEGRE 500, URB. LOS PARRALES",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.16565,
+    "lng": -76.992053
+  },
+  {
+    "codigo": 172,
+    "nombre": "HOSPITAL VILLA EL SALVADOR",
+    "direccion": "PUEBLO JOVEN VILLA EL SALVADOR MZ C3 LOTE 18 (PRIMER PISO) VILLA EL SALVADOR",
+    "distrito": "VILLA EL SALVADOR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.232063,
+    "lng": -76.933606
+  },
+  {
+    "codigo": 289,
+    "nombre": "HUACHIPA",
+    "direccion": "MZ. A LT. 36 ASOC. DIGNIDAD NACIONAL HUACHIPA (PRIMER PISO)",
+    "distrito": "LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.014127,
+    "lng": -76.900723
+  },
+  {
+    "codigo": 243,
+    "nombre": "HUACHO",
+    "direccion": "JR. LA MERCED 210 – 210 A, ESQUINA CON PASAJE CHANGANAQUI INT. 13",
+    "distrito": "HUACHO",
+    "provincia": "HUAURA",
+    "departamento": "LIMA",
+    "lat": -11.106471,
+    "lng": -77.608998
+  },
+  {
+    "codigo": 478,
+    "nombre": "HUACHO 2 EFE",
+    "direccion": "AV. 28 DE JULIO 540",
+    "distrito": "HUACHO",
+    "provincia": "HUAURA",
+    "departamento": "LIMA",
+    "lat": -11.107665,
+    "lng": -77.610335
+  },
+  {
+    "codigo": 290,
+    "nombre": "HUANCAYO",
+    "direccion": "AV. DANIEL ALCIDES CARRIÓN 1597 - 1599",
+    "distrito": "HUANCAYO",
+    "provincia": "HUANCAYO",
+    "departamento": "JUNÍN",
+    "lat": -12.073655,
+    "lng": -75.221093
+  },
+  {
+    "codigo": 307,
+    "nombre": "HUANCAYO 2",
+    "direccion": "AV. MARISCAL CASTILLA 4195 - 4197 CON AV. JOSÉ OLAYA 111, AAHH LA VICTORIA",
+    "distrito": "TAMBO",
+    "provincia": "HUANCAYO",
+    "departamento": "JUNÍN",
+    "lat": -12.029589,
+    "lng": -75.235275
+  },
+  {
+    "codigo": 468,
+    "nombre": "HUANCAYO 3 EFE",
+    "direccion": "CALLE REAL 500 - 504",
+    "distrito": "HUANCAYO",
+    "provincia": "HUANCAYO",
+    "departamento": "JUNÍN",
+    "lat": -12.068771,
+    "lng": -75.21006
+  },
+  {
+    "codigo": 469,
+    "nombre": "HUANCAYO 4 CURACAO",
+    "direccion": "JR. AMAZONAS 616",
+    "distrito": "HUANCAYO",
+    "provincia": "HUANCAYO",
+    "departamento": "JUNÍN",
+    "lat": -12.067488,
+    "lng": -75.207843
+  },
+  {
+    "codigo": 470,
+    "nombre": "HUANCAYO 5",
+    "direccion": "CALLE REAL 543 - 541",
+    "distrito": "HUANCAYO",
+    "provincia": "HUANCAYO",
+    "departamento": "JUNÍN",
+    "lat": -12.080342,
+    "lng": -75.202853
+  },
+  {
+    "codigo": 304,
+    "nombre": "HUANDOY SMP",
+    "direccion": "AV. LOS NARANJOS MZ M-02, TIENDA 07, URB. LOS NARANJOS, 2DA ETAPA",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.976803,
+    "lng": -77.0836
+  },
+  {
+    "codigo": 354,
+    "nombre": "HUÁNUCO",
+    "direccion": "JR. 28 DE JULIO 900, CRUCE CON JR. GENERAL PRADO 801 - 803",
+    "distrito": "HUÁNUCO",
+    "provincia": "HUÁNUCO",
+    "departamento": "HUÁNUCO",
+    "lat": -9.930177,
+    "lng": -76.239509
+  },
+  {
+    "codigo": 404,
+    "nombre": "HUÁNUCO 2",
+    "direccion": "JR. HUALLAYCO 804",
+    "distrito": "HUÁNUCO",
+    "provincia": "HUÁNUCO",
+    "departamento": "HUÁNUCO",
+    "lat": -9.930221,
+    "lng": -76.243474
+  },
+  {
+    "codigo": 271,
+    "nombre": "HUARAL",
+    "direccion": "CALLE DERECHA 420 (PRIMER PISO)",
+    "distrito": "HUARAL",
+    "provincia": "HUARAL",
+    "departamento": "LIMA",
+    "lat": -11.495493,
+    "lng": -77.206575
+  },
+  {
+    "codigo": 313,
+    "nombre": "HUARAL 2",
+    "direccion": "AV. SOLAR 505 CRUCE CON CALLE ANIMAS S/N (PRIMER PISO)",
+    "distrito": "HUARAL",
+    "provincia": "HUARAL",
+    "departamento": "LIMA",
+    "lat": -11.49465,
+    "lng": -77.206413
+  },
+  {
+    "codigo": 446,
+    "nombre": "HUARAZ 2",
+    "direccion": "JR. JUAN DE LA CRUZ ROMERO 451",
+    "distrito": "HUARAZ",
+    "provincia": "HUARAZ",
+    "departamento": "ÁNCASH",
+    "lat": -9.527044,
+    "lng": -77.531725
+  },
+  {
+    "codigo": 479,
+    "nombre": "HUARAZ 3 CURACAO",
+    "direccion": "AVENIDA LUZURIAGA 489 ZONA COMERCIAL",
+    "distrito": "HUARAZ",
+    "provincia": "HUARAZ",
+    "departamento": "ÁNCASH",
+    "lat": -9.52715,
+    "lng": -77.528753
+  },
+  {
+    "codigo": 244,
+    "nombre": "ICA",
+    "direccion": "AV. MUNICIPALIDAD 256 (PRIMER PISO)",
+    "distrito": "ICA",
+    "provincia": "ICA",
+    "departamento": "ICA",
+    "lat": -14.063819,
+    "lng": -75.730291
+  },
+  {
+    "codigo": 320,
+    "nombre": "ICA 2",
+    "direccion": "AV. SAN MARTIN 1485 - 1485A, URB. SOL DE ICA (PRIMER PISO)",
+    "distrito": "ICA",
+    "provincia": "ICA",
+    "departamento": "ICA",
+    "lat": -14.077786,
+    "lng": -75.72628
+  },
+  {
+    "codigo": 119,
+    "nombre": "INDEPENDENCIA",
+    "direccion": "AV. LAS VIOLETAS 252 - 256",
+    "distrito": "INDEPENDENCIA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.005617,
+    "lng": -77.053937
+  },
+  {
+    "codigo": 200,
+    "nombre": "INDEPENDENCIA 2",
+    "direccion": "AV. LAS VIOLETAS 774 – 776, UNIDAD INMOBILIARIA NRO. 1 URB. LAS VIOLETAS",
+    "distrito": "INDEPENDENCIA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.998335,
+    "lng": -77.05495
+  },
+  {
+    "codigo": 291,
+    "nombre": "INDEPENDENCIA 3",
+    "direccion": "AV. CARLOS IZAGUIRRE 119 (PRIMER PISO)",
+    "distrito": "INDEPENDENCIA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.989271,
+    "lng": -77.057782
+  },
+  {
+    "codigo": 333,
+    "nombre": "IQUITOS 2",
+    "direccion": "AV. ELIAS AGUIRRE 1099 Y JR. 9 DE DICIEMBRE 388, S/N, ZONA URBANA, SECTOR 11",
+    "distrito": "IQUITOS",
+    "provincia": "MAYNAS",
+    "departamento": "LORETO",
+    "lat": -3.75738,
+    "lng": -73.250279
+  },
+  {
+    "codigo": 385,
+    "nombre": "IQUITOS 3",
+    "direccion": "AV. JOSÉ ABELARDO QUIÑONES 4018-4018A, KM. 04",
+    "distrito": "SAN JUAN BAUTISTA",
+    "provincia": "MAYNAS",
+    "departamento": "LORETO",
+    "lat": -3.774923,
+    "lng": -73.287942
+  },
+  {
+    "codigo": 463,
+    "nombre": "IQUITOS 4",
+    "direccion": "CALLE PRÓSPERO 467",
+    "distrito": "IQUITOS",
+    "provincia": "MAYNAS",
+    "departamento": "LORETO",
+    "lat": -3.752545,
+    "lng": -73.245831
+  },
+  {
+    "codigo": 491,
+    "nombre": "IQUITOS 5",
+    "direccion": "AV. 28 DE JULIO 1047-1051, P.J. PUNCHANA",
+    "distrito": "PUNCHANA",
+    "provincia": "MAYNAS",
+    "departamento": "LORETO",
+    "lat": -3.727577,
+    "lng": -73.253008
+  },
+  {
+    "codigo": 181,
+    "nombre": "JAEN",
+    "direccion": "JR. SAN MARTÍN 1447",
+    "distrito": "JAEN",
+    "provincia": "JAEN",
+    "departamento": "CAJAMARCA",
+    "lat": -5.709208,
+    "lng": -78.807828
+  },
+  {
+    "codigo": 186,
+    "nombre": "JAVIER PRADO",
+    "direccion": "AV. JAVIER PRADO OESTE 302",
+    "distrito": "MAGDALENA DEL MAR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.091026,
+    "lng": -77.064837
+  },
+  {
+    "codigo": 349,
+    "nombre": "JAVIER PRADO 2",
+    "direccion": "AV. JAVIER PRADO ESTE 1114",
+    "distrito": "SAN ISIDRO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.090321,
+    "lng": -77.017051
+  },
+  {
+    "codigo": 355,
+    "nombre": "JAVIER PRADO 3",
+    "direccion": "AV. JAVIER PRADO ESTE 4921, TDA. 02, MZ. L2, LT. 09, URB. CAMACHO",
+    "distrito": "LA MOLINA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.081164,
+    "lng": -76.967377
+  },
+  {
+    "codigo": 512,
+    "nombre": "JAVIER PRADO 4",
+    "direccion": "AV. JAVIER PRADO OESTE 390",
+    "distrito": "MAGDALENA DEL MAR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.091344,
+    "lng": -77.064466
+  },
+  {
+    "codigo": 314,
+    "nombre": "JESÚS MARÍA",
+    "direccion": "JR. MARISCAL LUZURIAGA 496 (PRIMER PISO)",
+    "distrito": "JESÚS MARÍA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.075814,
+    "lng": -77.048941
+  },
+  {
+    "codigo": 376,
+    "nombre": "JESÚS MARÍA 2",
+    "direccion": "AV. REPÚBLICA DOMINICANA 367",
+    "distrito": "JESÚS MARÍA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.073928,
+    "lng": -77.048944
+  },
+  {
+    "codigo": 509,
+    "nombre": "JESÚS MARÍA 4",
+    "direccion": "AV. MÁRQUEZ JOSÉ DE ARNALDO 1300",
+    "distrito": "JESÚS MARÍA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.073619,
+    "lng": -77.049681
+  },
+  {
+    "codigo": 309,
+    "nombre": "JUANJUI",
+    "direccion": "JR. HUALLAGA 573 (PRIMER PISO)",
+    "distrito": "JUANJUI",
+    "provincia": "MARISCAL CÁCERES",
+    "departamento": "SAN MARTÍN",
+    "lat": -7.180743,
+    "lng": -76.726435
+  },
+  {
+    "codigo": 480,
+    "nombre": "JULIACA EFE",
+    "direccion": "JR. BRACESO 439",
+    "distrito": "JULIACA",
+    "provincia": "SAN ROMÁN",
+    "departamento": "PUNO",
+    "lat": -15.496361,
+    "lng": -70.131834
+  },
+  {
+    "codigo": 235,
+    "nombre": "LA MAR",
+    "direccion": "AV. LA MAR 994, ESQUINA CALLE FEDERICO VILLAREAL 412-416, PRIMER PISO",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.111857,
+    "lng": -77.046961
+  },
+  {
+    "codigo": 192,
+    "nombre": "LA MARINA",
+    "direccion": "AV. LA MARINA 2537, LOCAL COMERCIAL 01",
+    "distrito": "SAN MIGUEL",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.07821,
+    "lng": -77.089845
+  },
+  {
+    "codigo": 210,
+    "nombre": "LA MARINA 2",
+    "direccion": "AV. LA MARINA 2993 - 2995 - URBANIZACIÓN MARANGA",
+    "distrito": "SAN MIGUEL",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.076357,
+    "lng": -77.096191
+  },
+  {
+    "codigo": 221,
+    "nombre": "LA MARINA 3",
+    "direccion": "AV. LA MARINA 2685, URB. MARANGA",
+    "distrito": "SAN MIGUEL",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.077943,
+    "lng": -77.09252
+  },
+  {
+    "codigo": 292,
+    "nombre": "LA MARINA 4",
+    "direccion": "AV. LA MARINA 3133 - 3135, URB. MARANGA (PRIMER PISO)",
+    "distrito": "SAN MIGUEL",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.075489,
+    "lng": -77.098014
+  },
+  {
+    "codigo": 502,
+    "nombre": "LA MERCED 2 CURACAO",
+    "direccion": "JR. TARMA 588",
+    "distrito": "LA MERCED",
+    "provincia": "CHANCHAMAYO",
+    "departamento": "JUNÍN",
+    "lat": -11.054764,
+    "lng": -75.327303
+  },
+  {
+    "codigo": 356,
+    "nombre": "LA MERCED CHANCHAMAYO",
+    "direccion": "JR. ANCASH 167, 173",
+    "distrito": "CHANCHAMAYO",
+    "provincia": "CHANCHAMAYO",
+    "departamento": "JUNÍN",
+    "lat": -11.055864,
+    "lng": -75.327947
+  },
+  {
+    "codigo": 344,
+    "nombre": "LA VICTORIA 1 PALERMO",
+    "direccion": "AV. PALERMO 484",
+    "distrito": "LA VICTORIA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.080254,
+    "lng": -77.023105
+  },
+  {
+    "codigo": 366,
+    "nombre": "LA VICTORIA 2 MANCO CAPAC",
+    "direccion": "AV. MANCO CAPAC 390 - 392",
+    "distrito": "LA VICTORIA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.062913,
+    "lng": -77.029503
+  },
+  {
+    "codigo": 465,
+    "nombre": "LA VICTORIA 3 PALERMO",
+    "direccion": "AV. PALERMO 525-529, PRIMER PISO",
+    "distrito": "LA VICTORIA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.080743,
+    "lng": -77.02279
+  },
+  {
+    "codigo": 179,
+    "nombre": "LAMBAYEQUE",
+    "direccion": "CALLE ATAHUALPA 105",
+    "distrito": "LAMBAYEQUE",
+    "provincia": "LAMBAYEQUE",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.704562,
+    "lng": -79.903098
+  },
+  {
+    "codigo": 448,
+    "nombre": "LAMBAYEQUE 2 INKAMAY",
+    "direccion": "AV. RAMÓN CASTILLA 1135",
+    "distrito": "LAMBAYEQUE",
+    "provincia": "LAMBAYEQUE",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.706848,
+    "lng": -79.902978
+  },
+  {
+    "codigo": 305,
+    "nombre": "LIMA CERCADO",
+    "direccion": "CALLE SANTA NICERATA 350, TIENDA 8 (PRIMER PISO)",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.06357,
+    "lng": -77.077579
+  },
+  {
+    "codigo": 293,
+    "nombre": "LIMA PLAZA DE ARMAS",
+    "direccion": "JR. CALLAO 157 (PRIMER PISO)",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.045852,
+    "lng": -77.03193
+  },
+  {
+    "codigo": 234,
+    "nombre": "LINCE",
+    "direccion": "JR. FRANCISCO DE ZELA 1613, ESQUINA JR. CORONEL MANUEL GOMEZ, TIENDA 3 - PRIMER PISO",
+    "distrito": "LINCE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.081569,
+    "lng": -77.040127
+  },
+  {
+    "codigo": 328,
+    "nombre": "LINCE 2",
+    "direccion": "AV. JULIO C. TELLO 1088 - 1092 (PRIMER PISO)",
+    "distrito": "LINCE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.086899,
+    "lng": -77.043581
+  },
+  {
+    "codigo": 457,
+    "nombre": "LINCE 4",
+    "direccion": "AV. JULIO C. TELLO 801, CRUCE CON JR. CAPAC YUPANQUI 2100",
+    "distrito": "LINCE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.086821,
+    "lng": -77.041379
+  },
+  {
+    "codigo": 294,
+    "nombre": "LURÍN",
+    "direccion": "MZ \"M\" LT 1, 1ERA ETAPA VILLA ALEJANDRO (PRIMER PISO)",
+    "distrito": "LURÍN",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.236555,
+    "lng": -76.910442
+  },
+  {
+    "codigo": 295,
+    "nombre": "LURÍN 2",
+    "direccion": "CARRETERA ANTIGUA PANAMERICANA SUR LOTE 5A-5B, MZ. C, URB. LAS VIRREYNAS (PRIMER PISO)",
+    "distrito": "LURÍN",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.276137,
+    "lng": -76.870328
+  },
+  {
+    "codigo": 296,
+    "nombre": "LURÍN 3",
+    "direccion": "CARRETERA ANTIGUA PANAMERICANA SUR S/N, CRUCE CON PLAZUELA CASTILLA 140, TIENDA 4 (PRIMER PISO)",
+    "distrito": "LURÍN",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.275933,
+    "lng": -76.870512
+  },
+  {
+    "codigo": 160,
+    "nombre": "MAGDALENA 1 (S)",
+    "direccion": "JR. BOLOGNESI 260",
+    "distrito": "MAGDALENA DEL MAR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.092543,
+    "lng": -77.070062
+  },
+  {
+    "codigo": 67,
+    "nombre": "MAGDALENA 2",
+    "direccion": "JR. AUGUSTO BOLOGNESI 204",
+    "distrito": "MAGDALENA DEL MAR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.092582,
+    "lng": -77.069883
+  },
+  {
+    "codigo": 297,
+    "nombre": "MAGDALENA 3",
+    "direccion": "JR. LEONCIO PRADO 798 (PRIMER PISO)",
+    "distrito": "MAGDALENA DEL MAR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.090741,
+    "lng": -77.07236
+  },
+  {
+    "codigo": 357,
+    "nombre": "MAGDALENA 4",
+    "direccion": "JR. TACNA 700 - 700A, CRUCE CON JR. BOLOGNESI 398",
+    "distrito": "MAGDALENA DEL MAR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.091931,
+    "lng": -77.071641
+  },
+  {
+    "codigo": 338,
+    "nombre": "MANCHAY",
+    "direccion": "AV. VICTOR MALASQUEZ MZ C5, LT 1A, AAHH. CENTRO POBLADO RURAL LOS HUERTOS DE MANCHAY, SECTOR C , ZONA 5",
+    "distrito": "PACHACAMAC",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.112453,
+    "lng": -76.874123
+  },
+  {
+    "codigo": 488,
+    "nombre": "MÁNCORA",
+    "direccion": "AV. PIURA 640, MZ. 74, LT. 09 Y 10",
+    "distrito": "MÁNCORA",
+    "provincia": "TALARA",
+    "departamento": "PIURA",
+    "lat": -4.106873,
+    "lng": -81.053188
+  },
+  {
+    "codigo": 25,
+    "nombre": "MAX SALUD BOLOGNESI",
+    "direccion": "AV. BOLOGNESI 798",
+    "distrito": "CHICLAYO",
+    "provincia": "CHICLAYO",
+    "departamento": "LAMBAYEQUE",
+    "lat": -6.775905,
+    "lng": -79.837288
+  },
+  {
+    "codigo": 204,
+    "nombre": "MI PERU",
+    "direccion": "AV. TRUJILLO MZ. J 16 LOTE 5 - 5A",
+    "distrito": "MI PERU",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -11.853653,
+    "lng": -77.125045
+  },
+  {
+    "codigo": 272,
+    "nombre": "MIRAFLORES PORTA",
+    "direccion": "CALLE PORTA 124, TIENDA 28 (PRIMER PISO)",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.122984,
+    "lng": -77.031183
+  },
+  {
+    "codigo": 5,
+    "nombre": "MOLINA",
+    "direccion": "AV. LA MOLINA 870, URB. MONTERRICO",
+    "distrito": "LA MOLINA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.069116,
+    "lng": -76.958124
+  },
+  {
+    "codigo": 238,
+    "nombre": "MOLINA 2",
+    "direccion": "AV. RAÚL FERRERO 1155, URB. EL REMANSO - PRIMER PISO",
+    "distrito": "LA MOLINA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.09012,
+    "lng": -76.949218
+  },
+  {
+    "codigo": 263,
+    "nombre": "MOYOBAMBA",
+    "direccion": "JR. ALONSO DE ALVARADO 854 - 856",
+    "distrito": "MOYOBAMBA",
+    "provincia": "MOYOBAMBA",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.031443,
+    "lng": -76.974082
+  },
+  {
+    "codigo": 387,
+    "nombre": "MOYOBAMBA 2",
+    "direccion": "CALLE 7 – VILLA HERMOSA S/N, CUADRA 1",
+    "distrito": "MOYOBAMBA",
+    "provincia": "MOYOBAMBA",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.042058,
+    "lng": -76.972999
+  },
+  {
+    "codigo": 510,
+    "nombre": "MOYOBAMBA 3",
+    "direccion": "JR. ALONSO DE ALVARADO 986-988, CUADRA 9, SECTOR BARRIO DE ZARAGOZA",
+    "distrito": "MOYOBAMBA",
+    "provincia": "MOYOBAMBA",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.031019,
+    "lng": -76.975492
+  },
+  {
+    "codigo": 503,
+    "nombre": "NAZCA CURACAO",
+    "direccion": "CALLE LIMA 308",
+    "distrito": "NAZCA",
+    "provincia": "NAZCA",
+    "departamento": "ICA",
+    "lat": -14.82891,
+    "lng": -74.940073
+  },
+  {
+    "codigo": 115,
+    "nombre": "NUEVA ESPERANZA 1",
+    "direccion": "AV. 26 DE NOVIEMBRE 101, CRUCE AV. EL TRIUNFO S/N CUADRA 1, URB. NUEVA ESPERANZA (PRIMER PISO)",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.177312,
+    "lng": -76.939454
+  },
+  {
+    "codigo": 69,
+    "nombre": "OLIVOS 01",
+    "direccion": "AV. CARLOS IZAGUIRRE 850, URB. LAS PALMERAS",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.990825,
+    "lng": -77.071072
+  },
+  {
+    "codigo": 81,
+    "nombre": "OLIVOS 02",
+    "direccion": "AV. ANTÚNEZ DE MAYOLO 1173, URB. COVIDA",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.995224,
+    "lng": -77.077179
+  },
+  {
+    "codigo": 197,
+    "nombre": "OLIVOS 04",
+    "direccion": "AV. CARLOS ALBERTO IZAGUIRRE 406A, URB. PANAMERICANA NORTE",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.989829,
+    "lng": -77.064924
+  },
+  {
+    "codigo": 212,
+    "nombre": "OLIVOS 05",
+    "direccion": "AV. LOS ALISOS 784B - URB. CUETO FERNANDINI",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.98362,
+    "lng": -77.071766
+  },
+  {
+    "codigo": 237,
+    "nombre": "OLIVOS 06",
+    "direccion": "AV. RIO MARAÑÓN 607, URBANIZACIÓN VILLA DEL NORTE - PRIMER PISO",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.972065,
+    "lng": -77.070734
+  },
+  {
+    "codigo": 264,
+    "nombre": "OLIVOS 07",
+    "direccion": "AV. CARLOS ALBERTO IZAGUIRRE 412 - 414 (PRIMER PISO)",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.989935,
+    "lng": -77.065208
+  },
+  {
+    "codigo": 265,
+    "nombre": "OLIVOS 08",
+    "direccion": "AV. HUANDOY S/N, ESQ. CON AV. CENTRAL 801, MZ J LT 14, ASOC. DE VIV. URBANIZADORA SAN ROQUE - PRIMER PISO",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.959446,
+    "lng": -77.076135
+  },
+  {
+    "codigo": 273,
+    "nombre": "OLIVOS 10",
+    "direccion": "AV. CARLOS IZAGUIRRE 870, MZ. B LT. 25, URB. LAS PALMERAS (PRIMER Y SEGUNDO PISO)",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.990856,
+    "lng": -77.071233
+  },
+  {
+    "codigo": 358,
+    "nombre": "OLIVOS 11",
+    "direccion": "AV. RIO MARAÑON 648, MZ J, LT 24, URB. VILLA DEL NORTE",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.971787,
+    "lng": -77.071515
+  },
+  {
+    "codigo": 412,
+    "nombre": "OLIVOS 12",
+    "direccion": "AV. SANTIAGO ANTUNEZ DE MAYOLO, TDA. 1, MZ. B LT. 1, URB. RESIDENCIAL COMERCIAL LOS OLIVOS",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.995736,
+    "lng": -77.083316
+  },
+  {
+    "codigo": 423,
+    "nombre": "OLIVOS 13",
+    "direccion": "PROLONGACIÓN AQUIA, PUERTA S/N, MZ P, LT 1A, AAHH. LOS JAZMINES DEL NARANJAL",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.981425,
+    "lng": -77.080871
+  },
+  {
+    "codigo": 443,
+    "nombre": "OLIVOS 14 INKAMAY",
+    "direccion": "AV. ALFREDO MENDIOLA 5875, DPT. TDA-3 MZ. T LOTE 14-14A, URB. VILLA SOL, II ETAPA",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.964686,
+    "lng": -77.068723
+  },
+  {
+    "codigo": 66,
+    "nombre": "PACASMAYO",
+    "direccion": "AV. LADISLAO ESPINAR 80, PACASMAYO",
+    "distrito": "PACASMAYO",
+    "provincia": "PACASMAYO",
+    "departamento": "LA LIBERTAD",
+    "lat": -7.401054,
+    "lng": -79.568264
+  },
+  {
+    "codigo": 124,
+    "nombre": "PACHACAMAC",
+    "direccion": "MZ B1 LOTE 8 URB. PACHACAMAC II ETAPA",
+    "distrito": "VILLA EL SALVADOR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.231759,
+    "lng": -76.922456
+  },
+  {
+    "codigo": 339,
+    "nombre": "PAIJAN",
+    "direccion": "AV. PANAMERICANA NORTE  729",
+    "distrito": "PAIJAN",
+    "provincia": "ASCOPE",
+    "departamento": "LA LIBERTAD",
+    "lat": -7.733374,
+    "lng": -79.301862
+  },
+  {
+    "codigo": 450,
+    "nombre": "PAITA",
+    "direccion": "JR. EX MERCADO 135, MZ 37, LT 14, CERCADO DE PAITA",
+    "distrito": "PAITA",
+    "provincia": "PAITA",
+    "departamento": "PIURA",
+    "lat": -5.085978,
+    "lng": -81.113
+  },
+  {
+    "codigo": 451,
+    "nombre": "PAITA 2",
+    "direccion": "AV. VICTOR RAUL HAYA DE LA TORRE, AAHH. 5 DE FEBRERO, MZ F1, LT 11",
+    "distrito": "PAITA",
+    "provincia": "PAITA",
+    "departamento": "PIURA",
+    "lat": -5.092862,
+    "lng": -81.09987
+  },
+  {
+    "codigo": 346,
+    "nombre": "PALPA",
+    "direccion": "AV. GRAU MZ 112, LT 048",
+    "distrito": "PALPA",
+    "provincia": "PALPA",
+    "departamento": "ICA",
+    "lat": -14.534627,
+    "lng": -75.187863
+  },
+  {
+    "codigo": 15,
+    "nombre": "PARDO",
+    "direccion": "AV. JOSÉ PARDO 233",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.119273,
+    "lng": -77.030815
+  },
+  {
+    "codigo": 199,
+    "nombre": "PARDO 2",
+    "direccion": "AV. JOSÉ PARDO 708, URB. MIRAFLORES",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.118894,
+    "lng": -77.035952
+  },
+  {
+    "codigo": 75,
+    "nombre": "PESQUERO 1",
+    "direccion": "AV. PACHACUTEC 2814 - 2816 (PRIMER PISO)",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.172551,
+    "lng": -76.948795
+  },
+  {
+    "codigo": 236,
+    "nombre": "PESQUERO 3",
+    "direccion": "AV. PACHACUTEC 2890 - PRIMER PISO",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.173281,
+    "lng": -76.948341
+  },
+  {
+    "codigo": 504,
+    "nombre": "PICHANAQUI EFE",
+    "direccion": "JR. INDEPENDENCIA 347",
+    "distrito": "PICHANAQUI",
+    "provincia": "CHANCHAMAYO",
+    "departamento": "JUNÍN",
+    "lat": -10.925163,
+    "lng": -74.873955
+  },
+  {
+    "codigo": 359,
+    "nombre": "PISCO",
+    "direccion": "CALLE PROGRESO 100, CRUCE CON CALLE CALLAO 102, SECTOR I",
+    "distrito": "PISCO",
+    "provincia": "PISCO",
+    "departamento": "ICA",
+    "lat": -13.710333,
+    "lng": -76.203644
+  },
+  {
+    "codigo": 437,
+    "nombre": "PISCO 2",
+    "direccion": "CALLE COMERCIO 192, MZ. 25, SECTOR CERCADO",
+    "distrito": "PISCO",
+    "provincia": "PISCO",
+    "departamento": "ICA",
+    "lat": -13.711296,
+    "lng": -76.203677
+  },
+  {
+    "codigo": 449,
+    "nombre": "PISCO 3",
+    "direccion": "CALLE BEATITA DE HUMAY 525, MZ O, LT 8, SECTOR CERCADO",
+    "distrito": "PISCO",
+    "provincia": "PISCO",
+    "departamento": "ICA",
+    "lat": -13.714153,
+    "lng": -76.205664
+  },
+  {
+    "codigo": 218,
+    "nombre": "PIURA 01",
+    "direccion": "AV. GRAU 258 - 268",
+    "distrito": "PIURA",
+    "provincia": "PIURA",
+    "departamento": "PIURA",
+    "lat": -5.195981,
+    "lng": -80.628019
+  },
+  {
+    "codigo": 239,
+    "nombre": "PIURA 02",
+    "direccion": "AV. SANCHEZ CERRO S/N, CDRA 14, TIENDA 04",
+    "distrito": "PIURA",
+    "provincia": "PIURA",
+    "departamento": "PIURA",
+    "lat": -5.189351,
+    "lng": -80.6353
+  },
+  {
+    "codigo": 241,
+    "nombre": "PIURA 03",
+    "direccion": "AV. LIMA 849, MZ 227",
+    "distrito": "LA UNIÓN",
+    "provincia": "PIURA",
+    "departamento": "PIURA",
+    "lat": -5.401153,
+    "lng": -80.742702
+  },
+  {
+    "codigo": 253,
+    "nombre": "PIURA 04",
+    "direccion": "JR. SAN LORENZO LOTE 06 S/N, ZONA COMERCIO MERCADO DE PIURA",
+    "distrito": "PIURA",
+    "provincia": "PIURA",
+    "departamento": "PIURA",
+    "lat": -5.189163,
+    "lng": -80.634108
+  },
+  {
+    "codigo": 396,
+    "nombre": "PIURA 05",
+    "direccion": "AV. GRAU 2202, MZ. J LOTE 35, URB. LAS MERCEDES",
+    "distrito": "PIURA",
+    "provincia": "PIURA",
+    "departamento": "PIURA",
+    "lat": -5.188131,
+    "lng": -80.650597
+  },
+  {
+    "codigo": 409,
+    "nombre": "PIURA 06",
+    "direccion": "AV. COUNTRY 208, MZ. D LT. 02, URB. SANTA ISABEL",
+    "distrito": "PIURA",
+    "provincia": "PIURA",
+    "departamento": "PIURA",
+    "lat": -5.184182,
+    "lng": -80.631268
+  },
+  {
+    "codigo": 458,
+    "nombre": "PIURA 07 CURACAO",
+    "direccion": "AV. GRAU 402-416-424",
+    "distrito": "PIURA",
+    "provincia": "PIURA",
+    "departamento": "PIURA",
+    "lat": -5.195654,
+    "lng": -80.629175
+  },
+  {
+    "codigo": 472,
+    "nombre": "PIURA 08",
+    "direccion": "AV. LIMA 703, INT. 1, CRUCE CON AV. CHEPA SANTOS",
+    "distrito": "LA UNIÓN",
+    "provincia": "PIURA",
+    "departamento": "PIURA",
+    "lat": -5.401686,
+    "lng": -80.742791
+  },
+  {
+    "codigo": 183,
+    "nombre": "PLAZA UNIÓN",
+    "direccion": "CALLE PLAZA RAMON CASTILLA 99A CON ESQUINA AV. ALFONSO UGARTE 301",
+    "distrito": "LIMA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.043996,
+    "lng": -77.042747
+  },
+  {
+    "codigo": 28,
+    "nombre": "PRAGA",
+    "direccion": "AV. RIVERA NAVARRETE 2673",
+    "distrito": "LINCE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.089434,
+    "lng": -77.027132
+  },
+  {
+    "codigo": 300,
+    "nombre": "PRIMAVERA SURCO",
+    "direccion": "AV. PRIMAVERA 1306, CRUCE CON CALLE PUCALA, TIENDA 1, URB. CENTRO COMERCIAL MONTERRICO",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.110167,
+    "lng": -76.974865
+  },
+  {
+    "codigo": 277,
+    "nombre": "PRIMERA DE PRO 1 SMP",
+    "direccion": "AV. LOS PRÓCERES 8005, URB. PRO INDUSTRIAL (PRIMER PISO)",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.937529,
+    "lng": -77.071109
+  },
+  {
+    "codigo": 299,
+    "nombre": "PRIMERA DE PRO 2",
+    "direccion": "AV. LOS PROCERES 7880 (PRIMER PISO)",
+    "distrito": "LOS OLIVOS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.937924,
+    "lng": -77.072838
+  },
+  {
+    "codigo": 30,
+    "nombre": "PROCERES 1",
+    "direccion": "AV. LOS PRÓCERES 139 INTERIOR B Y C, URB. LOS PROCERES",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.148766,
+    "lng": -76.986405
+  },
+  {
+    "codigo": 198,
+    "nombre": "PROCERES 3",
+    "direccion": "AV. LOS PRÓCERES 447 – 447A, URB. LOS PRÓCERES",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.151064,
+    "lng": -76.988249
+  },
+  {
+    "codigo": 301,
+    "nombre": "PROCERES 4",
+    "direccion": "AV. LOS PRÓCERES 237, URB. LOS PROCERES (PRIMER PISO)",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.149596,
+    "lng": -76.98686
+  },
+  {
+    "codigo": 499,
+    "nombre": "PROCERES 5",
+    "direccion": "AV. LOS PRÓCERES 1095 - 1099 (TIENDA 1 - TIENDA 2), URB. HONOR Y LEALTAD",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.159612,
+    "lng": -76.988617
+  },
+  {
+    "codigo": 507,
+    "nombre": "PROCERES 6",
+    "direccion": "AV. LOS PROCERES 1042 - 1044, TDA 12-13, URB. SANTA AMALIA",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.159196,
+    "lng": -76.989024
+  },
+  {
+    "codigo": 417,
+    "nombre": "PUCALLPA",
+    "direccion": "JR. TARAPACA 899 Y JR. RAYMONDI 394, MZ 34, LT 1C, URB. CASCO URBANO",
+    "distrito": "CALLERIA",
+    "provincia": "CORONEL PORTILLO",
+    "departamento": "UCAYALI",
+    "lat": -8.384155,
+    "lng": -74.529787
+  },
+  {
+    "codigo": 431,
+    "nombre": "PUCALLPA 2 INKAMAY",
+    "direccion": "JR. INMACULADA 529A",
+    "distrito": "CALLERIA",
+    "provincia": "CORONEL PORTILLO",
+    "departamento": "UCAYALI",
+    "lat": -8.379291,
+    "lng": -74.531109
+  },
+  {
+    "codigo": 434,
+    "nombre": "PUCALLPA 3",
+    "direccion": "R. RAYMONDI 450, MZ 33, LT 1-D, URB. CASCO URBANO, ZONA A, SECTOR 7",
+    "distrito": "CALLERIA",
+    "provincia": "CORONEL PORTILLO",
+    "departamento": "UCAYALI",
+    "lat": -8.384745,
+    "lng": -74.53015
+  },
+  {
+    "codigo": 453,
+    "nombre": "PUCALLPA 4",
+    "direccion": "JR. AGUSTIN CAUPER 298A",
+    "distrito": "CALLERIA",
+    "provincia": "CORONEL PORTILLO",
+    "departamento": "UCAYALI",
+    "lat": -8.376269,
+    "lng": -74.530518
+  },
+  {
+    "codigo": 217,
+    "nombre": "PUEBLO LIBRE",
+    "direccion": "AV. BOLIVAR 830",
+    "distrito": "PUEBLO LIBRE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.071383,
+    "lng": -77.060715
+  },
+  {
+    "codigo": 41,
+    "nombre": "PUENTE PIEDRA (S)",
+    "direccion": "AV. PUENTE PIEDRA S/N KM 30,5",
+    "distrito": "PUENTE PIEDRA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.869766,
+    "lng": -77.070722
+  },
+  {
+    "codigo": 267,
+    "nombre": "PUENTE PIEDRA 2",
+    "direccion": "AV. JUAN LECAROS 205 (PRIMER PISO)",
+    "distrito": "PUENTE PIEDRA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.865485,
+    "lng": -77.076011
+  },
+  {
+    "codigo": 492,
+    "nombre": "PUERTO MALDONADO EFE",
+    "direccion": "LEÓN VELARDE 460",
+    "distrito": "TAMBOPATA",
+    "provincia": "TAMBOPATA",
+    "departamento": "MADRE DE DIOS",
+    "lat": -12.595348,
+    "lng": -69.178473
+  },
+  {
+    "codigo": 360,
+    "nombre": "PUNO",
+    "direccion": "JR. LIMA 272",
+    "distrito": "PUNO",
+    "provincia": "PUNO",
+    "departamento": "PUNO",
+    "lat": -15.838002,
+    "lng": -70.028267
+  },
+  {
+    "codigo": 481,
+    "nombre": "PUNO 2 CURACAO",
+    "direccion": "JR. CAHUIDE 129",
+    "distrito": "PUNO",
+    "provincia": "PUNO",
+    "departamento": "PUNO",
+    "lat": -15.837343,
+    "lng": -70.025394
+  },
+  {
+    "codigo": 46,
+    "nombre": "PUNTA HERMOSA (S)",
+    "direccion": "ANTIGUA PANAMERICANA SUR KM 43 - PRIMER PISO",
+    "distrito": "PUNTA HERMOSA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.327014,
+    "lng": -76.824822
+  },
+  {
+    "codigo": 182,
+    "nombre": "QUILCA",
+    "direccion": "AV. QUILCA MZ D27 LOTE 11 DEL AA.HH. BOCANEGRA SECTOR 3",
+    "distrito": "CALLAO",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -12.028066,
+    "lng": -77.094602
+  },
+  {
+    "codigo": 485,
+    "nombre": "QUILLABAMBA EFE",
+    "direccion": "AV. BOLOGNESI 110",
+    "distrito": "SANTA ANA",
+    "provincia": "LA CONVENCIÓN",
+    "departamento": "CUSCO",
+    "lat": -12.865031,
+    "lng": -72.694128
+  },
+  {
+    "codigo": 225,
+    "nombre": "RIMAC",
+    "direccion": "AV. SAMUEL ALCAZAR 852 - PRIMER PISO",
+    "distrito": "RIMAC",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.026715,
+    "lng": -77.033422
+  },
+  {
+    "codigo": 139,
+    "nombre": "RIVA AGÜERO",
+    "direccion": "AV. RIVA AGÜERO 550, CON PJE. LOS ANDES 107",
+    "distrito": "EL AGUSTINO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.05455,
+    "lng": -77.004044
+  },
+  {
+    "codigo": 369,
+    "nombre": "SALAMANCA 2",
+    "direccion": "CALLE INCA GARCILAZO DE LA VEGA 211, URB. SALAMANCA DE MONTERRICO, 2DA ETAPA, SECTOR 3, ZONA 1",
+    "distrito": "ATE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.075294,
+    "lng": -76.987252
+  },
+  {
+    "codigo": 484,
+    "nombre": "SALAMANCA 3",
+    "direccion": "AV. LOS PARACAS 190-192, UNIDAD INMOBILIARIA 1, MZ. A LT. 1, URB. AGRUPAMIENTO RESIDENCIAL SALAMANCA",
+    "distrito": "ATE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.076051,
+    "lng": -76.988057
+  },
+  {
+    "codigo": 206,
+    "nombre": "SAN BORJA",
+    "direccion": "AV. GUARDIA CIVIL 301A",
+    "distrito": "SAN BORJA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.091357,
+    "lng": -77.008268
+  },
+  {
+    "codigo": 306,
+    "nombre": "SAN BORJA 2",
+    "direccion": "JR. REMINGTON FREDERIC 292, URB. CORPAC (PRIMER PISO)",
+    "distrito": "SAN BORJA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.099044,
+    "lng": -77.01069
+  },
+  {
+    "codigo": 279,
+    "nombre": "SAN ISIDRO 2 CAVENECIA",
+    "direccion": "AV. EMILIO CAVENECIA 229 (PRIMER PISO)",
+    "distrito": "SAN ISIDRO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.108774,
+    "lng": -77.038609
+  },
+  {
+    "codigo": 321,
+    "nombre": "SAN ISIDRO 3",
+    "direccion": "AV. GENERAL JUAN ANTONIO PEZET 1447 - 1447A",
+    "distrito": "SAN ISIDRO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.102815,
+    "lng": -77.052856
+  },
+  {
+    "codigo": 112,
+    "nombre": "SAN JOSE",
+    "direccion": "CALLE JUAN FANNING 401",
+    "distrito": "MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.129079,
+    "lng": -77.031483
+  },
+  {
+    "codigo": 6,
+    "nombre": "SAN JUAN",
+    "direccion": "AV. LOS HÉROES 491",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.153402,
+    "lng": -76.972543
+  },
+  {
+    "codigo": 209,
+    "nombre": "SAN JUAN 2",
+    "direccion": "AV. SAN JUAN 1150A - ZONA D",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.155257,
+    "lng": -76.972184
+  },
+  {
+    "codigo": 348,
+    "nombre": "SAN JUAN 5",
+    "direccion": "AA.HH CEDROS DEL SUR MZ. C LT.15, ZONA PAMPAS DE SAN JUAN",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.177954,
+    "lng": -76.962692
+  },
+  {
+    "codigo": 145,
+    "nombre": "SAN LUIS",
+    "direccion": "AV. SAN LUIS 1489",
+    "distrito": "SAN LUIS",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.081951,
+    "lng": -76.997195
+  },
+  {
+    "codigo": 161,
+    "nombre": "SANTA ANITA",
+    "direccion": "CALLE LAS ALONDRAS 127",
+    "distrito": "SANTA ANITA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.054228,
+    "lng": -76.964291
+  },
+  {
+    "codigo": 194,
+    "nombre": "SANTA ANITA 2",
+    "direccion": "AV. LOS EUCALIPTOS 978 - 978A, URB. UNIVERSAL (PRIMER PISO)",
+    "distrito": "SANTA ANITA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.045201,
+    "lng": -76.97442
+  },
+  {
+    "codigo": 52,
+    "nombre": "SJ LURIGANCHO 02 (S)",
+    "direccion": "AV. PRÓCERES DE LA INDEPENDENCIA S/N",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.008141,
+    "lng": -77.003739
+  },
+  {
+    "codigo": 170,
+    "nombre": "SJ LURIGANCHO 03",
+    "direccion": "AV. 13 DE ENERO 2272, 2272A CON JR. AGUA MARINA 400 - URBANIZACION LA HUAYRONA",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.992692,
+    "lng": -77.005123
+  },
+  {
+    "codigo": 222,
+    "nombre": "SJ LURIGANCHO 04",
+    "direccion": "AV. PRÓCERES DE LA INDEPENDENCIA 1716",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.005395,
+    "lng": -77.005939
+  },
+  {
+    "codigo": 281,
+    "nombre": "SJ LURIGANCHO 05",
+    "direccion": "AV. LAS FLORES DE PRIMAVERA 1509, URB. LAS FLORES (PRIMER PISO)",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.003753,
+    "lng": -77.012413
+  },
+  {
+    "codigo": 334,
+    "nombre": "SJ LURIGANCHO 06",
+    "direccion": "MZ 06, SUB LT 34B, URB. MARISCAL CACERES, SECTOR 1, 1RA ETAPA (PRIMER PISO)",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.959288,
+    "lng": -76.98758
+  },
+  {
+    "codigo": 361,
+    "nombre": "SJ LURIGANCHO 07",
+    "direccion": "AV. DEL MURO 401-405, CRUCE CON ALAMEDA AURELIO MUNGIA 5187, MZ C1, LT 23, SECTOR III, PROG. CIUDAD MCAL. CACERES 6TA Y 7MA ETAPA",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.944976,
+    "lng": -76.989112
+  },
+  {
+    "codigo": 388,
+    "nombre": "SJ LURIGANCHO 08",
+    "direccion": "AV. EL SOL 410–410A, MZ I-1, LT 14, URB. SAN CARLOS",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.985183,
+    "lng": -77.006177
+  },
+  {
+    "codigo": 397,
+    "nombre": "SJ LURIGANCHO 09",
+    "direccion": "JR. TEMPLO DEL ASPERO 387-399, MZ P1, LT 1, URB. MANGOMARCA BAJA, CRUCE CON AV. MOXOCO 1798",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.016662,
+    "lng": -76.985176
+  },
+  {
+    "codigo": 398,
+    "nombre": "SJ LURIGANCHO 10",
+    "direccion": "AV. DEL MURO ESTE 112-114-114A, CRUCE CON JR. ESTE 5196, MZ J2, LT 04, PROGRAMA CIUDAD MARISCAL CÁCERES, SECTOR II",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.948188,
+    "lng": -76.984369
+  },
+  {
+    "codigo": 414,
+    "nombre": "SJ LURIGANCHO 11",
+    "direccion": "MZ. B, LOTE 4, 4A, AA. HH. JESÚS OROPEZA CHONTA",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.967387,
+    "lng": -77.003448
+  },
+  {
+    "codigo": 410,
+    "nombre": "SMP 9",
+    "direccion": "MZ “H” LT 9B,  PROG. VIV. SEÑOR DE LOS MILAGROS",
+    "distrito": "SAN MARTÍN DE PORRES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -11.986866,
+    "lng": -77.08721
+  },
+  {
+    "codigo": 40,
+    "nombre": "SULLANA 2 (S)",
+    "direccion": "CALLE 2 800 - BARRIO BUENOS AIRES",
+    "distrito": "SULLANA",
+    "provincia": "SULLANA",
+    "departamento": "PIURA",
+    "lat": -4.898458,
+    "lng": -80.687045
+  },
+  {
+    "codigo": 105,
+    "nombre": "SULLANA 3",
+    "direccion": "CALLE BOLÍVAR 285",
+    "distrito": "SULLANA",
+    "provincia": "SULLANA",
+    "departamento": "PIURA",
+    "lat": -4.891204,
+    "lng": -80.688645
+  },
+  {
+    "codigo": 120,
+    "nombre": "SULLANA 4 / HOSP. DE APOYO II",
+    "direccion": "AV. SANTA ROSA 327",
+    "distrito": "SULLANA",
+    "provincia": "SULLANA",
+    "departamento": "PIURA",
+    "lat": -4.891231,
+    "lng": -80.688725
+  },
+  {
+    "codigo": 407,
+    "nombre": "SULLANA 6",
+    "direccion": "AV. SANTA ROSA 415",
+    "distrito": "SULLANA",
+    "provincia": "SULLANA",
+    "departamento": "PIURA",
+    "lat": -4.896525,
+    "lng": -80.694849
+  },
+  {
+    "codigo": 459,
+    "nombre": "SULLANA 7",
+    "direccion": "CALLE PUNO 245",
+    "distrito": "BELLA VISTA",
+    "provincia": "SULLANA",
+    "departamento": "PIURA",
+    "lat": -4.890997,
+    "lng": -80.681657
+  },
+  {
+    "codigo": 466,
+    "nombre": "SULLANA 8",
+    "direccion": "AV. JOSE DE LAMA 35-37",
+    "distrito": "SULLANA",
+    "provincia": "SULLANA",
+    "departamento": "PIURA",
+    "lat": -4.892503,
+    "lng": -80.685101
+  },
+  {
+    "codigo": 513,
+    "nombre": "SULLANA 9",
+    "direccion": "CALLE SANTA ROSA 369",
+    "distrito": "SULLANA",
+    "provincia": "SULLANA",
+    "departamento": "PIURA",
+    "lat": -4.896272,
+    "lng": -80.694498
+  },
+  {
+    "codigo": 329,
+    "nombre": "SURQUILLO LAS TIENDAS",
+    "direccion": "CALLE LAS TIENDAS 267, URB. LIMATAMBO (PRIMER PISO)",
+    "distrito": "SURQUILLO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.103516,
+    "lng": -77.021209
+  },
+  {
+    "codigo": 163,
+    "nombre": "TABLADA",
+    "direccion": "JR. UNIÓN 1279-1283 MZ 3E LOTE 11 P.J. SAN FRANCISCO DE TABLADA DE LURÍN",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.199753,
+    "lng": -76.926968
+  },
+  {
+    "codigo": 268,
+    "nombre": "TABLADA 2",
+    "direccion": "AV. 27 DE DICIEMBRE 1081, MZ 5S LT 3A, TABLADA DE LURIN (PRIMER PISO)",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.188209,
+    "lng": -76.926566
+  },
+  {
+    "codigo": 372,
+    "nombre": "TACNA",
+    "direccion": "AV. BOLOGNESI 689, TIENDA 1",
+    "distrito": "TACNA",
+    "provincia": "TACNA",
+    "departamento": "TACNA",
+    "lat": -18.012575,
+    "lng": -70.247006
+  },
+  {
+    "codigo": 373,
+    "nombre": "TACNA 2",
+    "direccion": "AA. HH. ASOCIACIÓN DE VIVIENDA VILLA SAN FRANCISCO, MZ 95, LOTE 27, INT 1 Y 2",
+    "distrito": "CORONEL GREGORIO ALBARRACÍN LANCHIPA",
+    "provincia": "TACNA",
+    "departamento": "TACNA",
+    "lat": -18.0462,
+    "lng": -70.256182
+  },
+  {
+    "codigo": 497,
+    "nombre": "TACNA 3",
+    "direccion": "AV. SAN MARTÍN 404, CERCADO 28 DE JULIO",
+    "distrito": "TACNA",
+    "provincia": "TACNA",
+    "departamento": "TACNA",
+    "lat": -18.0130441,
+    "lng": -70.250163
+  },
+  {
+    "codigo": 269,
+    "nombre": "TALARA",
+    "direccion": "AV. GRAU \"A\" 79B",
+    "distrito": "PARIÑAS",
+    "provincia": "TALARA",
+    "departamento": "PIURA",
+    "lat": -4.579103,
+    "lng": -81.272797
+  },
+  {
+    "codigo": 322,
+    "nombre": "TALARA 2",
+    "direccion": "AV. A NRO. 106, TALARA ALTA (PRIMER PISO)",
+    "distrito": "PARIÑAS",
+    "provincia": "TALARA",
+    "departamento": "PIURA",
+    "lat": -4.589074,
+    "lng": -81.25584
+  },
+  {
+    "codigo": 471,
+    "nombre": "TALARA 3",
+    "direccion": "AV. GRAU A 47D, CASCO URBANO",
+    "distrito": "PARIÑAS",
+    "provincia": "TALARA",
+    "departamento": "PIURA",
+    "lat": -4.578897,
+    "lng": -81.269451
+  },
+  {
+    "codigo": 82,
+    "nombre": "TARAPOTO 01 (S)",
+    "direccion": "JR. JIMENEZ PIMENTEL 1309",
+    "distrito": "TARAPOTO",
+    "provincia": "SAN MARTÍN",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.497629,
+    "lng": -76.369413
+  },
+  {
+    "codigo": 282,
+    "nombre": "TARAPOTO 05",
+    "direccion": "JR. LIMA 323 - 325 (PRIMER PISO)",
+    "distrito": "TARAPOTO",
+    "provincia": "SAN MARTÍN",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.487496,
+    "lng": -76.36329
+  },
+  {
+    "codigo": 367,
+    "nombre": "TARAPOTO 06",
+    "direccion": "JR. RAMÍREZ HURTADO 187",
+    "distrito": "TARAPOTO",
+    "provincia": "SAN MARTÍN",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.487193,
+    "lng": -76.359959
+  },
+  {
+    "codigo": 379,
+    "nombre": "TARAPOTO 07",
+    "direccion": "JR. ALONSO ALVARADO 408, INT 410",
+    "distrito": "TARAPOTO",
+    "provincia": "SAN MARTÍN",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.487509,
+    "lng": -76.364241
+  },
+  {
+    "codigo": 464,
+    "nombre": "TARAPOTO 08",
+    "direccion": "JR. MARTINEZ DE COMPAGÑON 171, MZ 23, CERCADO",
+    "distrito": "TARAPOTO",
+    "provincia": "SAN MARTÍN",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.488137,
+    "lng": -76.36112
+  },
+  {
+    "codigo": 473,
+    "nombre": "TARAPOTO 09",
+    "direccion": "JR. SAN MARTÍN 171, MZ. 28, CERCADO",
+    "distrito": "TARAPOTO",
+    "provincia": "SAN MARTÍN",
+    "departamento": "SAN MARTÍN",
+    "lat": -6.487302,
+    "lng": -76.361005
+  },
+  {
+    "codigo": 362,
+    "nombre": "TARMA",
+    "direccion": "JR. LIMA 636 - 638",
+    "distrito": "TARMA",
+    "provincia": "TARMA",
+    "departamento": "JUNÍN",
+    "lat": -11.41964,
+    "lng": -75.690315
+  },
+  {
+    "codigo": 505,
+    "nombre": "TARMA 2 EFE",
+    "direccion": "JR. LIMA 290",
+    "distrito": "TARMA",
+    "provincia": "TARMA",
+    "departamento": "JUNÍN",
+    "lat": -11.419585,
+    "lng": -75.687816
+  },
+  {
+    "codigo": 418,
+    "nombre": "TOCACHE",
+    "direccion": "JR. TOCACHE 499, CRUCE CON JR. JORGE CHAVEZ 607, PUEBLO TRADICIONAL DE TOCACHE II",
+    "distrito": "TOCACHE",
+    "provincia": "TOCACHE",
+    "departamento": "SAN MARTÍN",
+    "lat": -8.188972,
+    "lng": -76.512764
+  },
+  {
+    "codigo": 205,
+    "nombre": "TRUJILLO 02",
+    "direccion": "JR. FRANCISCO PIZARRO 524 - 526",
+    "distrito": "CERCADO DE TRUJILLO",
+    "provincia": "TRUJILLO",
+    "departamento": "LA LIBERTAD",
+    "lat": -8.111491,
+    "lng": -79.027437
+  },
+  {
+    "codigo": 258,
+    "nombre": "TRUJILLO 03",
+    "direccion": "AV. AMERICA NORTE 2291, URB. LAS QUINTANAS (PRIMER PISO)",
+    "distrito": "TRUJILLO",
+    "provincia": "TRUJILLO",
+    "departamento": "LA LIBERTAD",
+    "lat": -8.102633,
+    "lng": -79.032908
+  },
+  {
+    "codigo": 363,
+    "nombre": "TRUJILLO 05",
+    "direccion": "CALLE LUCIO SENECA 296, MZ J, LT 17, URB. LA NORIA",
+    "distrito": "TRUJILLO",
+    "provincia": "TRUJILLO",
+    "departamento": "LA LIBERTAD",
+    "lat": -8.104186,
+    "lng": -79.009055
+  },
+  {
+    "codigo": 441,
+    "nombre": "TRUJILLO 06 INKAMAY",
+    "direccion": "AV. NICOLÁS DE PIÉROLA 1529",
+    "distrito": "TRUJILLO",
+    "provincia": "TRUJILLO",
+    "departamento": "LA LIBERTAD",
+    "lat": -8.092547,
+    "lng": -79.040511
+  },
+  {
+    "codigo": 442,
+    "nombre": "TRUJILLO 07 INKAMAY",
+    "direccion": "AV. PROLONGACIÓN UNIÓN 2554",
+    "distrito": "TRUJILLO",
+    "provincia": "TRUJILLO",
+    "departamento": "LA LIBERTAD",
+    "lat": -8.0878,
+    "lng": -79.004794
+  },
+  {
+    "codigo": 460,
+    "nombre": "TRUJILLO 08 CURACAO",
+    "direccion": "AV. JOSÉ FAUSTINO SÁNCHEZ CARRIÓN 547",
+    "distrito": "EL PORVENIR",
+    "provincia": "TRUJILLO",
+    "departamento": "LA LIBERTAD",
+    "lat": -8.085055,
+    "lng": -79.001744
+  },
+  {
+    "codigo": 151,
+    "nombre": "TULIPANES 1",
+    "direccion": "CALLE SIMÓN SALGUERO 557, INT. 2 URB. LOS TULIPANES",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.130217,
+    "lng": -77.008007
+  },
+  {
+    "codigo": 303,
+    "nombre": "TULIPANES 3",
+    "direccion": "JR. SIMÓN SALGUERO 546, URB. LOS TULIPANES (PRIMER PISO)",
+    "distrito": "SURCO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.130452,
+    "lng": -77.008135
+  },
+  {
+    "codigo": 482,
+    "nombre": "TUMBES 2 EFE",
+    "direccion": "AV. SIMÓN BOLÍVAR 225",
+    "distrito": "TUMBES",
+    "provincia": "TUMBES",
+    "departamento": "TUMBES",
+    "lat": -3.569545,
+    "lng": -80.459315
+  },
+  {
+    "codigo": 489,
+    "nombre": "TUMBES 3",
+    "direccion": "CALLE BOLÍVAR 244",
+    "distrito": "TUMBES",
+    "provincia": "TUMBES",
+    "departamento": "TUMBES",
+    "lat": -3.569361,
+    "lng": -80.45902
+  },
+  {
+    "codigo": 184,
+    "nombre": "VALLE SHARÓN",
+    "direccion": "AV. PROLONGACIÓN CESAR CANEVARO 407 – 411 CON AV. JUAN VELASCO ALVARADO 602",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.172606,
+    "lng": -76.967457
+  },
+  {
+    "codigo": 195,
+    "nombre": "VALLE SHARÓN 2",
+    "direccion": "CALLE LOS CIPRESES 410B - 410C, COOPERATIVA DE VIVIENDA VALLE SHARON, ZONA PAMPAS DE SAN JUAN",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.171528,
+    "lng": -76.967654
+  },
+  {
+    "codigo": 345,
+    "nombre": "VALLE SHARÓN 3",
+    "direccion": "AV. PROLONGACION CESAR CANEVARO 186, CRUCE CALLE LOS EUCALIPTOS 387-389, MZ F, LT 14, URB. VALLE SHARON",
+    "distrito": "S.J. MIRAFLORES",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.170692,
+    "lng": -76.968249
+  },
+  {
+    "codigo": 85,
+    "nombre": "VENEZUELA 2",
+    "direccion": "AV. VENEZUELA 907, OVALO VENEZUELA",
+    "distrito": "BREÑA",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.055123,
+    "lng": -77.046657
+  },
+  {
+    "codigo": 131,
+    "nombre": "VENTANILLA 1",
+    "direccion": "CALLE 3 MZ 8 LOTE 4, URB. SATÉLITE",
+    "distrito": "VENTANILLA",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -11.873211,
+    "lng": -77.125466
+  },
+  {
+    "codigo": 157,
+    "nombre": "VENTANILLA 2",
+    "direccion": "AV. PRINCIPAL LOTE 14B, URB. EX ZONA COMERCIAL",
+    "distrito": "VENTANILLA",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -11.874955,
+    "lng": -77.127034
+  },
+  {
+    "codigo": 159,
+    "nombre": "VENTANILLA 3",
+    "direccion": "AV. MARISCAL ANDRÉS AVELINO CÁCERES MZ C8 LOTE 13 (EX ZONA COMERCIAL)",
+    "distrito": "VENTANILLA",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -11.875328,
+    "lng": -77.127008
+  },
+  {
+    "codigo": 374,
+    "nombre": "VENTANILLA 4",
+    "direccion": "AV. BOLIVIA MZ U, LT 10, AAHH JOSE OLAYA BALANDRA CN OESTE",
+    "distrito": "VENTANILLA",
+    "provincia": "CALLAO",
+    "departamento": "CALLAO",
+    "lat": -11.839567,
+    "lng": -77.12526
+  },
+  {
+    "codigo": 12,
+    "nombre": "VILLA",
+    "direccion": "AV. REVOLUCIÓN MZ I LOTE 2 GRUPO 9 SECTOR 2",
+    "distrito": "VILLA EL SALVADOR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.210581,
+    "lng": -76.938239
+  },
+  {
+    "codigo": 247,
+    "nombre": "VILLA EL SALVADOR 4",
+    "direccion": "AV. CÉSAR VALLEJO 709-709A (PRIMER PISO)",
+    "distrito": "VILLA EL SALVADOR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.212951,
+    "lng": -76.935511
+  },
+  {
+    "codigo": 433,
+    "nombre": "VILLA EL SALVADOR 6",
+    "direccion": "SECTOR 01, GRUPO 21A, MZ. J, LOTE 14",
+    "distrito": "VILLA EL SALVADOR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.195291,
+    "lng": -76.958873
+  },
+  {
+    "codigo": 506,
+    "nombre": "VILLA EL SALVADOR 7",
+    "direccion": "SECTOR 01, SECCION 2, GRUPO 21A, MZ. J, LOTE 13",
+    "distrito": "VILLA EL SALVADOR",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.195314,
+    "lng": -76.958971
+  },
+  {
+    "codigo": 164,
+    "nombre": "VILLA MARÍA",
+    "direccion": "AV. VILLA MARÍA 593, MZ G5 LOTE 11C AAHH VILLA MARÍA DEL TRIUNFO",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.163603,
+    "lng": -76.946867
+  },
+  {
+    "codigo": 201,
+    "nombre": "VILLA MARÍA 2",
+    "direccion": "AV. VILLA MARÍA 503",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.163975,
+    "lng": -76.947384
+  },
+  {
+    "codigo": 136,
+    "nombre": "VITARTE 01",
+    "direccion": "ASOC. CIVIL RABINDRANATH TAGORE MZ. E LOTE 7",
+    "distrito": "ATE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.029425,
+    "lng": -76.924158
+  },
+  {
+    "codigo": 190,
+    "nombre": "VITARTE 02",
+    "direccion": "AV. RIVADAVIA BERNARDINO MZ F LOTE 15 URB. CERES 1RA ETAPA",
+    "distrito": "ATE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.029438,
+    "lng": -76.926902
+  },
+  {
+    "codigo": 216,
+    "nombre": "VITARTE 03",
+    "direccion": "PROGRESO 118",
+    "distrito": "ATE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.025344,
+    "lng": -76.920103
+  },
+  {
+    "codigo": 246,
+    "nombre": "VITARTE 04",
+    "direccion": "AV. NICOLÁS AYLLÓN 6102, 6100, ESQ. CON PASAJE UNIÓN 101, 101A (PRIMER PISO)",
+    "distrito": "ATE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.025136,
+    "lng": -76.917197
+  },
+  {
+    "codigo": 231,
+    "nombre": "VITARTE 05",
+    "direccion": "AV. CARRETERA CENTRAL MZ A LT 2, ASOC. DE VIV. SAN JUAN BAUTISTA - PRIMER PISO",
+    "distrito": "ATE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.028572,
+    "lng": -76.92405
+  },
+  {
+    "codigo": 274,
+    "nombre": "VITARTE 07",
+    "direccion": "AV. CARRETERA CENTRAL 5392, UNIDAD INMOBILIARIA 3, MZ C. LT. 1 - URB. BARBADILLO, SECTOR 17, ZONA 3 (PRIMER PISO)",
+    "distrito": "ATE",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.029907,
+    "lng": -76.924527
+  },
+  {
+    "codigo": 399,
+    "nombre": "YURIMAGUAS",
+    "direccion": "AV. MONSEÑOR ATANASIO JAUREGUI 224, CDRA 2",
+    "distrito": "YURIMAGUAS",
+    "provincia": "ALTO AMAZONAS",
+    "departamento": "LORETO",
+    "lat": -5.8955,
+    "lng": -76.105957
+  },
+  {
+    "codigo": 196,
+    "nombre": "ZÁRATE",
+    "direccion": "JR. CHINCHAYSUYO 348 - 348A, URB. ZÁRATE",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.025439,
+    "lng": -77.000302
+  },
+  {
+    "codigo": 364,
+    "nombre": "ZÁRATE 2",
+    "direccion": "AV. GRAN CHIMU 373 - 373A, MZ G, LT 33, URB. ZARATE",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.027529,
+    "lng": -77.0077
+  },
+  {
+    "codigo": 365,
+    "nombre": "ZÁRATE 3",
+    "direccion": "AV. GRAN CHIMU 396A - 396B, URB. ZARATE, UNIDAD INMOBILIARIA 1",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.027515,
+    "lng": -77.007489
+  },
+  {
+    "codigo": 370,
+    "nombre": "ZÁRATE 4",
+    "direccion": "AV. GRAN CHIMU 440-442-442A, URB. ZARATE, SECTOR A",
+    "distrito": "S.J. LURIGANCHO",
+    "provincia": "LIMA",
+    "departamento": "LIMA",
+    "lat": -12.027389,
+    "lng": -77.006582
+  }
+]

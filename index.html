@@ -2,11 +2,12 @@
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Mapa de Tiendas - Boticas Perú</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- CSS de Leaflet -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
+      body, html { margin: 0; padding: 0; }
       #map {
         height: 100vh;
         width: 100%;
@@ -21,43 +22,30 @@
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
       // 1. Crear el mapa y centrarlo en Lima
-      const map = L.map("map").setView([-12.0464, -77.0428], 12);
+      const map = L.map('map').setView([-9.189967, -75.015152], 5.5);
 
       // 2. Cargar mapa base desde OpenStreetMap
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         attribution: "&copy; OpenStreetMap contributors",
       }).addTo(map);
 
-      // 3. Lista de tiendas de ejemplo
-      const tiendas = [
-        {
-          nombre: "Boticas Perú - San Isidro",
-          direccion: "Av. Javier Prado Este 560",
-          lat: -12.092176,
-          lng: -77.037989,
-        },
-        {
-          nombre: "Boticas Perú - Miraflores",
-          direccion: "Av. Larco 812",
-          lat: -12.122214,
-          lng: -77.030915,
-        },
-        {
-          nombre: "Boticas Perú - Surco",
-          direccion: "Av. Caminos del Inca 1234",
-          lat: -12.14575,
-          lng: -76.987236,
-        },
-      ];
-
-      // 4. Agregar marcadores al mapa
-      tiendas.forEach((tienda) => {
-        L.marker([tienda.lat, tienda.lng])
-          .addTo(map)
-          .bindPopup(
-            `<strong>${tienda.nombre}</strong><br>${tienda.direccion}`
-          );
-      });
+      // Cargar datos de tiendas desde el archivo JSON
+      fetch('data/tiendas.json')
+        .then(response => response.json())
+        .then(tiendas => {
+          tiendas.forEach(tienda => {
+            const marker = L.marker([tienda.lat, tienda.lng]).addTo(map);
+            marker.bindPopup(`
+              <small>${tienda.codigo}</small><br>
+              <strong>${tienda.nombre}</strong><br>
+              Dirección: ${tienda.direccion}<br>
+              ${tienda.distrito}, ${tienda.provincia}, ${tienda.departamento}<br>
+            `);
+          });
+        })
+        .catch(err => {
+          console.error("Error al cargar el JSON de tiendas:", err);
+        });
     </script>
   </body>
 </html>
