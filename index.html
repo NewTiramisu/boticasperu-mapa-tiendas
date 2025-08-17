@@ -4,43 +4,145 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Mapa de Tiendas - Boticas Perú</title>
+    
     <!-- CSS de Leaflet -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <style>
       body, html { margin: 0; padding: 0; }
       #map {
-        height: 100vh;
+        height: 90vh;
         width: 100%;
+      }
+      #selector {
+        padding: 0.5rem;
+        font-size: 1rem;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      #resetBtn {
+        width: 100%;
+        padding: 0.5rem;
+        font-size: 1rem;
+        background: #f5f5f5;
+        border: none;
+        cursor: pointer;
+      }
+
+      @media (min-width: 768px) {
+        #selector {
+          height: 40px;
+        }
+      }
+
+      @media (max-width: 767px) {
+        #selector {
+          height: 10vh;
+        }
       }
     </style>
   </head>
 
   <body>
+
+    <!-- Dropdown para seleccionar tienda -->
+    <select id="selector">
+      <option value="">🔍 Selecciona una botica...</option>
+    </select>
+    <button id="resetBtn">🔄 Ver todas las boticas</button>
+
+    <!-- Mapa -->
     <div id="map"></div>
 
     <!-- JS de Leaflet -->
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script>
-      // 1. Crear el mapa y centrarlo en Lima
-      const map = L.map('map').setView([-9.189967, -75.015152], 5.5);
 
-      // 2. Cargar mapa base desde OpenStreetMap
+      // Marcador azul por defecto
+      const defaultIcon = L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
+        shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+      });
+
+      // Marcador rojo para tiendas seleccionadas
+      const redIcon = L.icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
+        shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+      });
+
+      // Crear el mapa y centrarlo en Perú
+      const map = L.map('map').setView([-9.189967, -75.015152], 5.5);
+      
+      // Cargar mapa base desde OpenStreetMap
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         attribution: "&copy; OpenStreetMap contributors",
       }).addTo(map);
+      
+      // Marcadores y referencias
+      const markers = [];
 
       // Cargar datos de tiendas desde el archivo JSON
       fetch('data/tiendas.json')
         .then(response => response.json())
         .then(tiendas => {
-          tiendas.forEach(tienda => {
-            const marker = L.marker([tienda.lat, tienda.lng]).addTo(map);
-            marker.bindPopup(`
-              <small>${tienda.codigo}</small><br>
-              <strong>${tienda.nombre}</strong><br>
-              Dirección: ${tienda.direccion}<br>
-              ${tienda.distrito}, ${tienda.provincia}, ${tienda.departamento}<br>
-            `);
+          const selector = document.getElementById("selector");
+
+          tiendas.forEach((tienda, index) => {
+            // Crear marcador
+            const marker = L.marker([tienda.lat, tienda.lng], { icon: defaultIcon })
+              .addTo(map)
+              .bindPopup(`
+                <small>${tienda.codigo}</small><br>
+                <strong>${tienda.nombre}</strong><br>
+                Dirección: ${tienda.direccion}<br>
+                ${tienda.distrito}, ${tienda.provincia}, ${tienda.departamento}<br>
+              `);
+            markers.push(marker);
+
+            // Agregar opción al selector
+            const option = document.createElement("option");
+            option.value = index; // índice coincide con el marcador
+            option.text = `${tienda.nombre} – ${tienda.distrito} - ${tienda.provincia} - ${tienda.departamento}`;
+            selector.appendChild(option);
+
+            marker.on('click', () => {
+              // Restaurar íconos
+              markers.forEach(m => m.setIcon(defaultIcon));
+              marker.setIcon(redIcon);
+
+              // Sincronizar selector con esta tienda
+              selector.value = index;
+            });
+          });
+
+          // Al cambiar la tienda seleccionada
+          selector.addEventListener("change", (e) => {
+            const i = e.target.value;
+            if (i === "") return;
+            // Restaurar todos los íconos a default
+            markers.forEach(marker => marker.setIcon(defaultIcon));
+            
+            const marker = markers[i];
+            marker.setIcon(redIcon);
+            map.setView(marker.getLatLng(), 16);
+            marker.openPopup();
+          });
+
+          document.getElementById("resetBtn").addEventListener("click", () => {
+            map.setView([-9.189967, -75.015152], 5.5); // Vista por defecto
+            selector.value = ""; // Limpiar selector
+            // Resetear colores de todos los marcadores
+            markers.forEach(marker => {
+              marker.setIcon(defaultIcon);
+            });
           });
         })
         .catch(err => {
